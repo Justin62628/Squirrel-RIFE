@@ -19,6 +19,13 @@
 [【4K120fps】印尼宽带广告 IndiHome Paket Phoenix 补帧修复](https://www.bilibili.com/video/BV1e54y1s7KP)
 
 
+## 软件环境需求
+（1） .NET Framework 4.5.2及以上版本
+（2） 最新的NVIDIA显卡驱动
+（3） 不小于10G的硬盘空间
+（4） 4G以上内存大小
+如果无NVIDIA显卡，可选用CPU补帧
+
 ## 使用教程
 https://www.bilibili.com/video/BV1uo4y1d7Cr/ 
 
