@@ -19,6 +19,9 @@
 [【4K120fps】印尼宽带广告 IndiHome Paket Phoenix 补帧修复](https://www.bilibili.com/video/BV1e54y1s7KP)
 
 
+## 使用教程
+https://www.bilibili.com/video/BV1uo4y1d7Cr/
+
 ## 引用补帧算法 RIFE Video Frame Interpolation
 
 [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)  作者:hzwer
