@@ -22,11 +22,13 @@
 ## 软件环境需求
 （1） .NET Framework 4.5.2及以上版本
 
-（2） 最新的NVIDIA显卡驱动
+（2） Microsoft Visual C++ Redistributable 11.0
 
-（3） 不小于10G的硬盘空间
+（3） 最新的NVIDIA显卡驱动
 
-（4） 4G以上内存大小
+（4） 不小于10G的硬盘空间
+
+（5） 4G以上内存大小
 
 如果无NVIDIA显卡，可选用CPU补帧
 
