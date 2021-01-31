@@ -1,8 +1,10 @@
 # Squirrel-Video-Frame-Interpolation
+BY Squirrel Development Team
+基于RIFE算法的补帧软件
 
 ## 特点
 
-- 基于RIFE算法的补帧软件，效果更好，显存占用更小，是DAIN速度的十五倍，包含抽帧处理，可去除动漫卡顿感
+- 效果更好，显存占用更小，是DAIN速度的十五倍，包含抽帧处理，可去除动漫卡顿感
 
 - 一键队列运行，支持多卡，持续更新
 
