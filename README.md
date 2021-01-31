@@ -1,6 +1,6 @@
 # Squirrel-Video-Frame-Interpolation
-BY Squirrel Development Team
-基于RIFE算法的补帧软件
+- BY Squirrel Development Team
+- 基于RIFE算法的补帧软件
 
 ## 特点
 
