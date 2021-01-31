@@ -20,7 +20,7 @@
 
 
 ## 使用教程
-https://www.bilibili.com/video/BV1uo4y1d7Cr/
+https://www.bilibili.com/video/BV1uo4y1d7Cr/ 无效地址
 
 ## 引用补帧算法 RIFE Video Frame Interpolation
 
