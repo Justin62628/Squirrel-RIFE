@@ -22,6 +22,11 @@
 ## 使用教程
 https://www.bilibili.com/video/BV1uo4y1d7Cr/ 
 
+## 下载地址
+百度网盘
+链接:https://pan.baidu.com/s/1gPsSBcbfLUmb_RKfLxZIxQ
+提取码:NULL
+
 ## 引用补帧算法 RIFE Video Frame Interpolation
 
 [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)  作者:hzwer
