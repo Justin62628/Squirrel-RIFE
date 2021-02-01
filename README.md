@@ -28,7 +28,7 @@
 
 （3） 最新的NVIDIA显卡驱动
 
-（4） 不小于10G的硬盘空间
+（4） 足够的硬盘空间
 
 （5） 4G以上内存大小
 
@@ -38,8 +38,10 @@
 https://www.bilibili.com/video/BV1uo4y1d7Cr/ 
 
 ## 下载地址
-百度网盘
+
 SVFI 1.0版本
+
+百度网盘
 链接:https://pan.baidu.com/s/1gPsSBcbfLUmb_RKfLxZIxQ
 提取码:NULL
 
