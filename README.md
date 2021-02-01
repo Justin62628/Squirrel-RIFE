@@ -1,4 +1,4 @@
-# Squirrel-Video-Frame-Interpolation
+# Squirrel Video Frame Interpolation
 - BY Squirrel Development Team
 - 基于RIFE算法的补帧软件
 
@@ -10,9 +10,11 @@
 
 ## 补帧效果演示 BiliBili
 
-[RIFE-APP插帧演示（《崩坏3》动画短片「渡尘」）](https://www.bilibili.com/video/BV1fX4y1P7s3)
+[ RIFE-APP插帧演示（《崩坏3》动画短片「渡尘」）](https://www.bilibili.com/video/BV1fX4y1P7s3)
 
-[猫物语黑-OP 补帧60](https://www.bilibili.com/video/BV11f4y1k7WW)
+[【60FPS重制】《崩坏3》动画短片「渡尘」](https://www.bilibili.com/video/BV1rV411q7s4)
+
+[ 猫物语黑-OP 补帧60](https://www.bilibili.com/video/BV11f4y1k7WW)
 
 [【4K120fps】千恋万花 官方中文版 补帧修复](https://www.bilibili.com/video/BV1AT4y1P7kY)
 
