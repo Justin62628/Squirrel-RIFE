@@ -38,6 +38,9 @@
 https://www.bilibili.com/video/BV1uo4y1d7Cr/ 
 
 ## 下载地址
+
+[点击这里下载](https://svfi.oss-cn-qingdao.aliyuncs.com/SVFI/Squirrel%20Video%20Frame%20Interpolation.exe)
+
 GitHub
 
 链接：https://github.com/YiWeiHuang-stack/Squirrel-Video-Frame-Interpolation/releases/latest
@@ -46,10 +49,6 @@ GitHub
 
 链接：https://pan.baidu.com/s/1WDndjRemR2Hku6eeElCK8Q 
 提取码：NULL 
-
-高速通道
-
-[阿里OSS](https://svfi.oss-cn-qingdao.aliyuncs.com/SVFI/Squirrel%20Video%20Frame%20Interpolation.exe)
 
 ## 引用补帧算法 RIFE Video Frame Interpolation
 
