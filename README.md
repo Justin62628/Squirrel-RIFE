@@ -47,6 +47,9 @@ GitHub
 链接：https://pan.baidu.com/s/1WDndjRemR2Hku6eeElCK8Q 
 提取码：NULL 
 
+高速通道
+
+[阿里OSS](https://svfi.oss-cn-qingdao.aliyuncs.com/SVFI/Squirrel%20Video%20Frame%20Interpolation.exe)
 
 ## 引用补帧算法 RIFE Video Frame Interpolation
 
