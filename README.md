@@ -39,8 +39,7 @@ https://www.bilibili.com/video/BV1uo4y1d7Cr/
 
 ## 下载地址
 
-[点击这里下载(v1.1)(exe)](https://svfi.oss-cn-qingdao.aliyuncs.com/SVFI/Squirrel%20Video%20Frame%20Interpolation.exe)
-[点击这里下载(v1.1)(zip)](https://svfi.oss-cn-qingdao.aliyuncs.com/SVFI/SVFI.7z)
+[点击这里下载(v1.2)(7z)](https://svfi.oss-cn-qingdao.aliyuncs.com/SVFI/SVFIv1.2.7z)
 
 GitHub
 
