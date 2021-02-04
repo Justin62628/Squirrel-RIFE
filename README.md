@@ -57,3 +57,5 @@ GitHub
 ### 有能力的童鞋赞助一下呗~ 
 
 ![赞助通道](https://cdn.luogu.com.cn/upload/image_hosting/ky852ky6.png)
+
+[看不到图点这里](https://cdn.luogu.com.cn/upload/image_hosting/ky852ky6.png)
