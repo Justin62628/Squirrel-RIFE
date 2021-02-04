@@ -39,7 +39,8 @@ https://www.bilibili.com/video/BV1uo4y1d7Cr/
 
 ## 下载地址
 
-[点击这里下载(v1.2)(7z)](https://svfi.oss-cn-qingdao.aliyuncs.com/SVFI/SVFIv1.2.7z)
+资金不足，暂时关闭高速下载通道
+[点击这里下载(v1.2)(7z)]((https://cdn.luogu.com.cn/upload/image_hosting/ky852ky6.png)
 
 GitHub
 
