@@ -23,7 +23,7 @@
 ## 软件环境需求
 （1） .NET Framework 4.5.2及以上版本
 
-（2） Microsoft Visual C++ Redistributable 11.0
+（2） Microsoft Visual C++ Redistributable 2021
 
 （3） 最新的NVIDIA显卡驱动
 
