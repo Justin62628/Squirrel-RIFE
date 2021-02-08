@@ -38,9 +38,7 @@ https://www.bilibili.com/video/BV1uo4y1d7Cr/
 
 ## 下载地址
 
-[点击这里下载(v1.2)(7z)](http://svfi.oss-cn-qingdao.aliyuncs.com/SVFI/SVFIv1.2.7z)
-
-[点击这里下载(v1.2)(exe)](http://svfi.oss-cn-qingdao.aliyuncs.com/SVFI/SVFIv1.2.exe)
+[点击这里下载(v1.3)(7z)](https://svfi.oss-cn-qingdao.aliyuncs.com/SVFI/SVFI%201.3.7z)
 
 GitHub
 
