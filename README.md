@@ -40,7 +40,7 @@ https://www.bilibili.com/video/BV1uo4y1d7Cr/
 
 ## 下载地址
 
-请等待1.4版本发布(预计18:00)(效果比之前的任何一个版本都好)
+百度网盘：链接：https://pan.baidu.com/s/1WDndjRemR2Hku6eeElCK8Q  提取码：null 
 
 ## 引用补帧算法 RIFE Video Frame Interpolation
 
