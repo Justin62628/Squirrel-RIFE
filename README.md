@@ -45,4 +45,4 @@ https://www.bilibili.com/video/BV1uo4y1d7Cr/
 [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)  作者:hzwer
 
 ### 有能力的童鞋赞助一下呗~ 
-<img src="https://s3.ax1x.com/2021/02/09/ydAVpV.png" width="50%">
+<img src="https://s3.ax1x.com/2021/02/09/ydAVpV.png" width="35%">
