@@ -38,7 +38,7 @@ https://www.bilibili.com/video/BV1uo4y1d7Cr/
 
 ## 下载地址
 
-请等待1.4版本正式发布(效果比之前的任何一个版本都好)
+请等待1.4版本发布(预计18:00)(效果比之前的任何一个版本都好)
 
 ## 引用补帧算法 RIFE Video Frame Interpolation
 
