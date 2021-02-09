@@ -47,6 +47,10 @@ https://github.com/YiWeiHuang-stack/Squirrel-Video-Frame-Interpolation/releases/
 
 链接：https://pan.baidu.com/s/1WDndjRemR2Hku6eeElCK8Q  提取码：null 
 
+One Drive
+
+https://1drv.ms/u/s!ApdPbeVkzObhgQUJHixQSRqMzasm?e=HiQusv
+
 ## 引用补帧算法 RIFE Video Frame Interpolation
 
 [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)  作者:hzwer
