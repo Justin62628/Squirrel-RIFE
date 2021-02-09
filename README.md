@@ -12,15 +12,15 @@
 
 [【120FPS】EVA × KATE × 米山舞「绫波丽，首次口红，在那之后」](https://www.bilibili.com/video/BV1yz4y1m7iF)
 
+[【4K120fps】TV动画《魔女之旅》NCOP リテラチュア](https://www.bilibili.com/video/BV1sr4y1P7Wg?from=search&seid=17356442119935352422)
+
 [【RIFE-APP插帧演示】（《崩坏3》动画短片「渡尘」）](https://www.bilibili.com/video/BV1fX4y1P7s3)
 
 [【4K/60 FPS】-Bad Apple!!- (Orchestral Arrangement) feat. Un3h 片段](https://www.bilibili.com/video/BV1Mo4y197xr)
 
-[【60FPS重制】《崩坏3》动画短片「渡尘」](https://www.bilibili.com/video/BV1rV411q7s4)
-
 [【猫物语黑-OP 补帧60】](https://www.bilibili.com/video/BV11f4y1k7WW)
 
-[【4K120fps】千恋万花 官方中文版 补帧修复](https://www.bilibili.com/video/BV1AT4y1P7kY)
+[【周深/毛不易】《Got it》60帧重制 高清丝滑流畅吸深 最新AI补帧SVFI 腾讯年夜饭 ](https://www.bilibili.com/video/BV1zN411R76W?from=search&seid=17356442119935352422)
 
 ## 软件环境需求
 （1） .NET Framework 4.5.2及以上版本
