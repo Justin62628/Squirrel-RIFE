@@ -53,11 +53,10 @@ https://1drv.ms/u/s!ApdPbeVkzObhgQUJHixQSRqMzasm?e=HiQusv
 
 ## 引用补帧算法 RIFE Video Frame Interpolation
 
-[arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)  
+Github地址:[arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)  
 
 作者:Zhewei Huang, Tianyuan Zhang, Wen Heng, Boxin Shi, Shuchang Zhou
 
-Github地址:https://github.com/hzwer/arXiv2020-RIFE
 
 ### 有能力的童鞋赞助一下呗~ 
 <img src="https://s3.ax1x.com/2021/02/09/ydAVpV.png" width="33%"><img src="https://s3.ax1x.com/2021/02/09/ydETIA.jpg" width="33%"><img src="https://s3.ax1x.com/2021/02/09/ydEjsS.png" width="33%">
