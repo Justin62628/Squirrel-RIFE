@@ -14,6 +14,8 @@
 
 [【RIFE-APP插帧演示】（《崩坏3》动画短片「渡尘」）](https://www.bilibili.com/video/BV1fX4y1P7s3)
 
+[【4K/60 FPS】-Bad Apple!!- (Orchestral Arrangement) feat. Un3h 片段](https://www.bilibili.com/video/BV1Mo4y197xr)
+
 [【60FPS重制】《崩坏3》动画短片「渡尘」](https://www.bilibili.com/video/BV1rV411q7s4)
 
 [【猫物语黑-OP 补帧60】](https://www.bilibili.com/video/BV11f4y1k7WW)
