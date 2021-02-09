@@ -45,5 +45,5 @@ https://www.bilibili.com/video/BV1uo4y1d7Cr/
 [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)  作者:hzwer
 
 ### 有能力的童鞋赞助一下呗~ 
-
-![赞助通道](https://s3.ax1x.com/2021/02/09/ydAVpV.png)
+https://s3.ax1x.com/2021/02/09/ydAVpV.png
+赞助通道
