@@ -46,4 +46,4 @@ https://www.bilibili.com/video/BV1uo4y1d7Cr/
 
 ### 有能力的童鞋赞助一下呗~ 
 
-![赞助通道](https://imgchr.com/i/ydAVpV)
+![赞助通道](https://s3.ax1x.com/2021/02/09/ydAVpV.png)
