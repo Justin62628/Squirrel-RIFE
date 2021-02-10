@@ -56,12 +56,17 @@ One Drive
 
 https://1drv.ms/u/s!ApdPbeVkzObhgQUJHixQSRqMzasm?e=HiQusv
 
-## 引用补帧算法 RIFE Video Frame Interpolation
+## 参考
+# 引用补帧算法 RIFE Video Frame Interpolation
 
 Github地址:[arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)  
 
 作者:Zhewei Huang, Tianyuan Zhang, Wen Heng, Boxin Shi, Shuchang Zhou
 
+# RIFE_GUI
+Github地址:[RIFE_GUI](https://github.com/Justin62628/RIFE_GUI)
+
+作者:Justin62628
 
 ### 有能力的童鞋赞助一下呗~ 
 <img src="https://images.gitee.com/uploads/images/2021/0209/224545_829e9da8_8684016.png" width="33%"><img src="https://images.gitee.com/uploads/images/2021/0209/224532_50e45c52_8684016.jpeg" width="33%"><img src="https://images.gitee.com/uploads/images/2021/0209/225247_3301beaa_8684016.png" width="33%">
