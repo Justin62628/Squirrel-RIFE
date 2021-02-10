@@ -56,6 +56,10 @@ One Drive
 
 https://1drv.ms/u/s!ApdPbeVkzObhgQUJHixQSRqMzasm?e=HiQusv
 
+# 问题反馈
+
+QQ群:264023742
+
 # 参考
 ## 引用补帧算法 RIFE Video Frame Interpolation
 
