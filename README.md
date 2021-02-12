@@ -18,13 +18,11 @@
 
 [【4K120fps】TV动画《魔女之旅》NCOP リテラチュア](https://www.bilibili.com/video/BV1sr4y1P7Wg?from=search&seid=17356442119935352422)
 
+[【60FPS】Final Phase](https://www.bilibili.com/video/BV1gK4y1Q7d9?from=search&seid=9891874569533059429)
+
 [【RIFE-APP插帧演示】（《崩坏3》动画短片「渡尘」）](https://www.bilibili.com/video/BV1fX4y1P7s3)
 
-[【4K/60 FPS】-Bad Apple!!- (Orchestral Arrangement) feat. Un3h 片段](https://www.bilibili.com/video/BV1Mo4y197xr)
-
-[【猫物语黑-OP 补帧60】](https://www.bilibili.com/video/BV11f4y1k7WW)
-
-[【周深/毛不易】《Got it》60帧重制 高清丝滑流畅吸深 最新AI补帧SVFI 腾讯年夜饭 ](https://www.bilibili.com/video/BV1zN411R76W?from=search&seid=17356442119935352422)
+[【命运石之门OP】](https://www.bilibili.com/video/BV1zo4y197SA?from=search&seid=9891874569533059429)
 
 ## 软件环境需求
 （1） .NET Framework 4.5.2及以上版本
