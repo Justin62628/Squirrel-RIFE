@@ -1,4 +1,4 @@
-# Squirrel-RIFE
+# Squirrel-RIFE Video Frame Interpolation
 - BY Squirrel Development Team
 - 基于RIFE算法的补帧软件
 
