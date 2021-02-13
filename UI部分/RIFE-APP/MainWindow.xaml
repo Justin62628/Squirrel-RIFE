@@ -1,0 +1,20 @@
+﻿<Window x:Class="RIFE_APP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RIFE_APP"
+        mc:Ignorable="d"
+        Title="ConfigMaker" Height="531.654" Width="895.78" FontWeight="Bold" FontSize="14" Closing="Window_Closing" WindowStartupLocation="Manual" ResizeMode="CanMinimize">
+    <Grid Margin="0,0,0,1.333">
+        <Button x:Name="btn_input" Click="btn_input_Click" Content="导入文件/文件夹" HorizontalAlignment="Left" VerticalAlignment="Top" Width="837" FontSize="12" FontWeight="Bold" Margin="27,70,0,0"/>
+        <RadioButton x:Name="rbtn_v" Content="单文件" IsChecked="True" HorizontalAlignment="Left" Margin="204,51,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rbtn_pngs" Content="图片序列" HorizontalAlignment="Left" Margin="606,51,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btn_output" Click="btn_output_Click" IsEnabled="False" Content="选择保存导出内容的文件夹" HorizontalAlignment="Left" VerticalAlignment="Top" Width="837" FontSize="12" FontWeight="Bold" Margin="27,94,0,0"/>
+        <Button x:Name="btn_about" Content="关于" Click="btn_about_Click" HorizontalAlignment="Left" Margin="28,10,0,0" VerticalAlignment="Top" Width="835" Height="36"/>
+        <Frame x:Name="frame" Content="" HorizontalAlignment="Left" Height="383" Margin="4,119,0,0" VerticalAlignment="Top" NavigationUIVisibility="Hidden" Width="884"/>
+        <Button x:Name="btn_normal_setting" Click="btn_normal_setting_Click" Content="普通设置" IsEnabled="False" HorizontalAlignment="Left" VerticalAlignment="Top" Width="83" FontSize="12" FontWeight="Bold" Margin="26,119,0,0"/>
+        <Button x:Name="btn_ffmpeg_setting" Visibility="Hidden" Content="自定义ffmpeg命令" HorizontalAlignment="Left" VerticalAlignment="Top" Width="119" FontSize="12" FontWeight="Bold" Margin="192,119,0,0"/>
+        <Button x:Name="btn_permance_setting" Click="btn_permance_setting_Click" Content="性能分配设置" HorizontalAlignment="Left" VerticalAlignment="Top" Width="83" FontSize="12" FontWeight="Bold" Margin="108,119,0,0"/>
+    </Grid>
+</Window>
