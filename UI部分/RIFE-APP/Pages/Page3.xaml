@@ -1,0 +1,16 @@
+﻿<Page x:Class="RIFE_APP.Pages.Page3"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:RIFE_APP.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="357" d:DesignWidth="910"
+      Title="Page3">
+
+    <Grid Background="White">
+        <Label x:Name="label" Content="最大内存(MB):" HorizontalAlignment="Left" Margin="18,26,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <TextBox x:Name="txt_max_ram_size" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Height="23" Margin="124,30,0,0" TextWrapping="NoWrap" Text="2048" VerticalAlignment="Top" Width="82" FontSize="14" FontWeight="Bold"/>
+
+    </Grid>
+</Page>

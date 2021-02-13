@@ -1,0 +1,69 @@
+﻿<Page x:Class="RIFE_APP.Pages.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:RIFE_APP.Pages"
+      mc:Ignorable="d"
+      Title="Page1" Height="415.469" Width="910.719">
+
+    <Grid Background="White" Margin="0,10,0.667,10.667">
+        <GroupBox Header="导出参数" HorizontalAlignment="Left" Height="63" Margin="14,265,0,0" VerticalAlignment="Top" Width="859" FontSize="14" FontWeight="Bold">
+            <CheckBox x:Name="chk_only_final" Content="补帧完成后只留下最终导出文件" IsChecked="True" HorizontalAlignment="Left" Height="23" Margin="526,7,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" FontSize="14" FontWeight="Bold">
+                <CheckBox.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleX="0.871"/>
+                        <RotateTransform/>
+                        <TranslateTransform X="0.76"/>
+                    </TransformGroup>
+                </CheckBox.RenderTransform>
+            </CheckBox>
+        </GroupBox>
+        <GroupBox Header="识别参数" HorizontalAlignment="Left" Height="97" Margin="15,164,0,0" VerticalAlignment="Top" Width="860" FontSize="14" FontWeight="Bold"/>
+        <GroupBox Header="补帧参数" HorizontalAlignment="Left" Height="148" VerticalAlignment="Top" Width="859" Margin="14,14,0,0" FontSize="14" FontWeight="Bold"/>
+        <Label Content="选择补帧设备:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="14" FontWeight="Bold" Width="106" Margin="325,37,0,0"/>
+        <ComboBox x:Name="com_devices" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Margin="421,41,0,0" VerticalAlignment="Top" Width="440" Height="24" FontSize="14" FontWeight="Bold"/>
+        <Label Content="当前后两帧相减小于该值时识别为重复帧:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="22,184,0,0" FontSize="14" FontWeight="Bold" Width="267"/>
+        <Label Content="当前后两帧相减大于该值时识别为场景切换:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="433,183,0,0" FontSize="14" FontWeight="Bold"/>
+        <TextBox x:Name="txt_dup_value" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Height="23" Margin="287,188,0,0" TextWrapping="NoWrap" Text="1" VerticalAlignment="Top" Width="72" FontSize="14" FontWeight="Bold"/>
+        <TextBox x:Name="txt_scene_value" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Height="24" Margin="711,188,0,0" TextWrapping="NoWrap" Text="50" VerticalAlignment="Top" Width="72" FontSize="14" Background="White" FontWeight="Bold"/>
+        <TextBox x:Name="txt_static_frames" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Height="23" Margin="120,224,0,0" TextWrapping="NoWrap" Text="30" VerticalAlignment="Top" Width="72" FontSize="14" FontWeight="Bold"/>
+        <TextBox x:Name="txt_detect_threads" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Height="23" Margin="502,224,0,0" TextWrapping="NoWrap" Text="16" VerticalAlignment="Top" Width="72" FontSize="14" FontWeight="Bold"/>
+        <Label Content="选择补帧模式:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="14" FontWeight="Bold" Width="104" Margin="20,37,0,0"/>
+        <ComboBox x:Name="com_mode" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Margin="115,41,0,0" VerticalAlignment="Top" Width="210" Height="24" FontSize="14" FontWeight="Bold">
+            <ComboBoxItem IsSelected="True" HorizontalContentAlignment="Center" Content="普通模式(2D/3D)"/>
+            <ComboBoxItem HorizontalContentAlignment="Center" Content="除去重复帧(ffmpeg)(会影响时长)"/>
+            <ComboBoxItem HorizontalContentAlignment="Center" Content="除去重复帧(absdiff)(会影响时长)"/>
+            <ComboBoxItem HorizontalContentAlignment="Center" Content="抽帧模式"/>
+        </ComboBox>
+        <Label Content="导入帧率:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="24,73,0,0" FontSize="14" FontWeight="Bold"/>
+        <TextBox x:Name="txt_input_fps" HorizontalAlignment="Left" Height="23" Margin="88,78,0,0" TextWrapping="NoWrap" Text="" IsEnabled="True" VerticalAlignment="Top" Width="216" FontSize="14" FontWeight="Bold"/>
+        <Label Content="补帧后帧率:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="503,73,0,0" FontSize="14" FontWeight="Bold"/>
+        <TextBox x:Name="txt_interpolated_fps" HorizontalAlignment="Left" Height="23" Margin="592,78,0,0" TextWrapping="NoWrap" Text="" IsEnabled="False" VerticalAlignment="Top" Width="269" FontSize="14" FontWeight="Bold"/>
+        <CheckBox x:Name="chk_uhd" Content="开启UHD模式" IsChecked="True" HorizontalAlignment="Left" Margin="114,117,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <CheckBox x:Name="chk_vector" Content="反向光流" IsChecked="False"  HorizontalAlignment="Left" Margin="237,117,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Label Content="导出帧率:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="346,285,0,0" FontSize="14" FontWeight="Bold"/>
+        <TextBox x:Name="txt_output_fps" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Height="23" Margin="413,290,0,0" TextWrapping="NoWrap" Text="60" VerticalAlignment="Top" Width="84" FontSize="14" FontWeight="Bold"/>
+        <ComboBox x:Name="com_times" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Margin="337,77,0,0" VerticalAlignment="Top" Width="145" Height="24" FontSize="14" RenderTransformOrigin="0.494,0.75" FontWeight="Bold">
+            <ComboBoxItem IsSelected="True" HorizontalContentAlignment="Center" Content="2倍帧率"/>
+            <ComboBoxItem HorizontalContentAlignment="Center" Content="4倍帧率"/>
+            <ComboBoxItem HorizontalContentAlignment="Center" Content="8倍帧率"/>
+            <ComboBoxItem HorizontalContentAlignment="Center" Content="16倍帧率"/>
+        </ComboBox>
+        <Label Content="当重复帧多余:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="23,219,0,0" FontSize="14" FontWeight="Bold"/>
+        <Label Content="帧时识别为刻意静止" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="188,219,0,0" FontSize="14" FontWeight="Bold"/>
+        <ComboBox x:Name="com_out_type" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="421,113,0,0" VerticalAlignment="Top" Width="440" FontSize="14" FontWeight="Bold">
+            <ComboBoxItem HorizontalContentAlignment="Center" IsSelected="True" Content="导出为mp4"/>
+            <ComboBoxItem HorizontalContentAlignment="Center" Content="导出为图片序列"/>
+        </ComboBox>
+        <Label Content="补帧后的文件:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="14" FontWeight="Bold" Width="106" Margin="325,110,0,0"/>
+        <CheckBox x:Name="chk_add_audio" IsChecked="True" Content="加入音频" HorizontalAlignment="Left" Margin="24,292,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <Label Content="识别进程:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="434,218,0,0" FontSize="14" FontWeight="Bold"/>
+        <Label Content="CRF数值:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="155,285,0,0" FontSize="14" FontWeight="Bold"/>
+        <TextBox x:Name="txt_crf_value" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Height="23" Margin="220,290,0,0" TextWrapping="NoWrap" Text="16" VerticalAlignment="Top" Width="84" FontSize="14" FontWeight="Bold"/>
+        <Button x:Name="btn_save_svfi" Content="导出svfi" HorizontalAlignment="Left" Margin="23,333,0,0" VerticalAlignment="Top" Width="408" FontSize="14" FontWeight="Bold"/>
+        <Button x:Name="btn_reset" Content="还原默认参数" HorizontalAlignment="Left" Margin="436,333,0,0" VerticalAlignment="Top" Width="437" FontSize="14" FontWeight="Bold"/>
+        <CheckBox x:Name="chk_fast_exc" Content="快速拆帧" IsChecked="True"  HorizontalAlignment="Left" Margin="20,117,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+    </Grid>
+</Page>

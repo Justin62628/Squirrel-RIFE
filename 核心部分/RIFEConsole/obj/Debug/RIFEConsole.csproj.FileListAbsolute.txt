@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\RIFEConsole\RIFEConsole\obj\Debug\RIFEConsole.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\RIFEConsole\RIFEConsole\obj\Debug\RIFEConsole.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RIFEConsole\RIFEConsole\bin\Debug\RIFEConsole.exe.config
+C:\Users\Admin\source\repos\RIFEConsole\RIFEConsole\bin\Debug\RIFEConsole.exe
+C:\Users\Admin\source\repos\RIFEConsole\RIFEConsole\bin\Debug\RIFEConsole.pdb
+C:\Users\Admin\source\repos\RIFEConsole\RIFEConsole\obj\Debug\RIFEConsole.exe
+C:\Users\Admin\source\repos\RIFEConsole\RIFEConsole\obj\Debug\RIFEConsole.pdb
+D:\MyFiles\code\RIFEConsole\RIFEConsole\bin\Debug\RIFEConsole.exe.config
+D:\MyFiles\code\RIFEConsole\RIFEConsole\bin\Debug\RIFEConsole.exe
+D:\MyFiles\code\RIFEConsole\RIFEConsole\bin\Debug\RIFEConsole.pdb
+D:\MyFiles\code\RIFEConsole\RIFEConsole\obj\Debug\RIFEConsole.csprojAssemblyReference.cache
+D:\MyFiles\code\RIFEConsole\RIFEConsole\obj\Debug\RIFEConsole.csproj.CoreCompileInputs.cache
+D:\MyFiles\code\RIFEConsole\RIFEConsole\obj\Debug\RIFEConsole.exe
+D:\MyFiles\code\RIFEConsole\RIFEConsole\obj\Debug\RIFEConsole.pdb
