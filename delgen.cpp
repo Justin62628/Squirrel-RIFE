@@ -30,9 +30,7 @@ string topath(int i)
 		i /= 10;
 	}
 	while (s.length() < 9)
-	{
 		s = '0' + s;
-	}
 	string path1;
 	path1 = path;
 	path1 = path1 + '\\';
@@ -49,9 +47,7 @@ double ave(Mat a)
 		double tem = mean(a).val[i];
 		sum += tem;
 		if (tem != 0.0)
-		{
 			n++;
-		}
 	}
 	if (n == 0)
 		return 0.0;
@@ -63,9 +59,7 @@ double diff(int img1, int img2)
 	Mat i2 = imread(topath(img2));
 	Mat i3;
 	if (i1.empty() || i2.empty())
-	{
 		return 0.0;
-	}
 	absdiff(i1, i2, i3);
 	return ave(i3);
 }
@@ -84,18 +78,7 @@ void thread_task(int start,int end,int number)
 		{
 			dif = diff(st, pos + 1);
 			if (dif < scene&&pos>=start)
-			{
-				/*char s[1000];
-				string ss = topath(pos);
-				for (int i = 0; i < ss.length(); i++)
-				{
-					s[i] = ss[i];
-				}
-				s[ss.length()] = '\0';
-				remove(s);*/
-				//result[number][idx[number]++] = pos;
 				q[number].push(pos);
-			}
 			pos++;
 			ttttt++;
 		}
@@ -108,40 +91,19 @@ bool getdone()
 {
 	bool a = true;
 	for (int i = 1; i <= T; i++)
-	{
 		a &= done[i];
-	}
 	return a;
 }
 int main()
 {
-	/*path = "C:\\Users\\ASUS\\Desktop";
-	cout << diff(1, 2);
-	return 0;*/
-
-
-
-
-
-
-
-
-
-
-
-
 	getline(cin, path);
 	if (path[0] == '"')
 	{
 		path.erase(0, 1);
 		path.erase(path.end() - 1);
 	}
-
 	cin >> dup >> scene >> total >>T;
 	total--;
-
-	//cout << endl << time(0) << endl << endl;
-
 	int tempp = total / T;
 	for (int i = 1; i <= T; i++)
 	{
@@ -171,28 +133,11 @@ int main()
 			q[i].pop();
 			char s[1000];
 			for (int w = 0; w < ss.length(); w++)
-			{
 				s[w] = ss[w];
-			}
 			s[ss.length()] = '\0';
 			remove(s);
 		}
 	}
 	cout << "Done!";
-	/*for (int i = 1; i <= T; i++)
-	{
-		for (int j = 0; j < idx[i]; j++)
-		{
-			char s[1000];
-			string ss = topath(result[i][j]);
-			for (int i = 0; i < ss.length(); i++)
-			{
-				s[i] = ss[i];
-			}
-			s[ss.length()] = '\0';
-			remove(s);
-		}
-	}*/
-	//cout << endl << time(0) << endl << endl;
 	return 0;
 }
