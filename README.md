@@ -20,7 +20,7 @@
 
 [【60FPS】Final Phase](https://www.bilibili.com/video/BV1gK4y1Q7d9?from=search&seid=9891874569533059429)
 
-[【RIFE-APP插帧演示】（《崩坏3》动画短片「渡尘」）](https://www.bilibili.com/video/BV1fX4y1P7s3)
+[【SVFI插帧演示】（《崩坏3》动画短片「渡尘」）](https://www.bilibili.com/video/BV1fX4y1P7s3)
 
 [【命运石之门OP】](https://www.bilibili.com/video/BV1zo4y197SA?from=search&seid=9891874569533059429)
 
