@@ -1,12 +1,13 @@
 # Squirrel-RIFE Video Frame Interpolation
 - BY Squirrel Development Team
 - 基于RIFE算法的补帧软件
+- 软件将在1.6版本支持A卡(问就是开学了，更新推迟┭┮﹏┭┮)
 
 ## 特点
 
 - 效果更好，显存占用更小，是DAIN速度的十五倍，包含抽帧处理，可去除动漫卡顿感
 
-- 一键队列运行，支持多卡，持续更新
+- 一键队列运行，持续更新
 
 ## 使用建议
 
@@ -37,7 +38,8 @@
 
 如果无NVIDIA显卡，可选用CPU补帧
 
-## 使用教程
+## 使用教程（一定要看！！）
+
 https://www.bilibili.com/video/BV1uo4y1d7Cr/ 
 
 ## 下载地址
@@ -48,6 +50,11 @@ https://github.com/YiWeiHuang-stack/Squirrel-Video-Frame-Interpolation/releases/
 百度网盘
 
 链接：https://pan.baidu.com/s/1WDndjRemR2Hku6eeElCK8Q  提取码：null 
+
+迅雷网盘
+
+链接：https://pan.xunlei.com/s/VMT5guT2Dq9_N41wVAcwwLt1A1  提取码：6htk
+
 
 One Drive
 
