@@ -49,11 +49,6 @@ https://github.com/YiWeiHuang-stack/Squirrel-Video-Frame-Interpolation/releases/
 
 链接：https://pan.baidu.com/s/1WDndjRemR2Hku6eeElCK8Q  提取码：null 
 
-迅雷网盘
-
-链接：https://pan.xunlei.com/s/VMT5guT2Dq9_N41wVAcwwLt1A1  提取码：6htk
-
-
 One Drive
 
 https://1drv.ms/u/s!ApdPbeVkzObhgQUJHixQSRqMzasm?e=HiQusv
