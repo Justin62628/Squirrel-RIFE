@@ -1,7 +1,8 @@
 # Squirrel-RIFE Video Frame Interpolation
 - BY Squirrel Development Team
 - 基于RIFE算法的补帧软件
-- 软件将在1.6版本支持A卡(问就是开学了，更新推迟┭┮﹏┭┮)
+- 软件将在1.6版本支持A卡 (问就是开学了，更新推迟┭┮﹏┭┮)
+$\latex$
 
 ## 特点
 
