@@ -2,8 +2,7 @@
 - BY Squirrel Development Team
 - 基于RIFE算法的补帧软件
 - 软件将在1.6版本支持A卡 (问就是开学了，更新推迟┭┮﹏┭┮)
-
-$Sorry$
+- 周一至周六不接受催更:(
 
 ## 特点
 
