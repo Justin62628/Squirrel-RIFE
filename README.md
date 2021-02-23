@@ -42,6 +42,8 @@
 
 https://www.bilibili.com/video/BV1uo4y1d7Cr/ 
 
+[1.5参数详解](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/blob/main/1.5%E5%8F%82%E6%95%B0%E8%AF%A6%E8%A7%A3.md)
+
 ## 下载地址
 Github
 
