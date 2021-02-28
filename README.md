@@ -5,13 +5,9 @@
 
 ## 特点
 
-- 效果更好，显存占用更小，是DAIN速度的十五倍，包含抽帧处理，可去除动漫卡顿感
+- 效果更好，显存占用更小，是DAIN速度的十五倍
 
-- 一键队列运行，持续更新
-
-## 使用建议
-
-- 将视频压制到低帧率，例如 24帧压制到8帧，之后用普通模式补8倍，环回60，和抽帧模式的效果相似，效率更高
+- 包含抽帧处理，可去除动漫卡顿感，持续更新
 
 ## 补帧效果演示 BiliBili
 
@@ -67,16 +63,10 @@ https://1drv.ms/u/s!ApdPbeVkzObhgQUJHixQSRqMzasm?e=HiQusv
 QQ群:264023742
 
 # 参考
-## 引用补帧算法 RIFE Video Frame Interpolation
 
-Github: [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)  
+算法:[arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)
 
-作者:[Zhewei Huang](https://github.com/hzwer), [Tianyuan Zhang](https://github.com/a1600012888), Wen Heng, Boxin Shi, Shuchang Zhou
-
-## RIFE_GUI
-Github: [RIFE_GUI](https://github.com/Justin62628/RIFE_GUI)
-
-作者: [Justin62628](https://github.com/Justin62628)
+代码:[RIFEInterpolation](https://github.com/YiWeiHuang-stack/RIFEInterpolation) [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE) [RIFE_GUI](https://github.com/Justin62628/RIFE_GUI)
 
 ### 有能力的童鞋赞助一下呗~ 
 <img src="https://images.gitee.com/uploads/images/2021/0209/224545_829e9da8_8684016.png" width="33%"><img src="https://images.gitee.com/uploads/images/2021/0209/224532_50e45c52_8684016.jpeg" width="33%"><img src="https://images.gitee.com/uploads/images/2021/0209/225247_3301beaa_8684016.png" width="33%">
