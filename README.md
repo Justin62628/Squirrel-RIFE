@@ -1,13 +1,14 @@
 # Squirrel-RIFE Video Frame Interpolation
 - BY Squirrel Development Team
 - 基于RIFE算法的补帧软件
-- 软件将在1.6版本支持A卡 (问就是开学了，更新推迟┭┮﹏┭┮)
+
+# 项目将分为Squirrel-RIFE(前SVFI版), RIFE_GUI 两个版本
 
 ## 特点
 
 - 效果更好，显存占用更小，是DAIN速度的十五倍
 
-- 包含抽帧处理，可去除动漫卡顿感，持续更新
+- 包含抽帧处理，可去除动漫卡顿感 (SVFI版本)
 
 ## 补帧效果演示 BiliBili
 
@@ -21,26 +22,18 @@
 
 [【命运石之门OP】](https://www.bilibili.com/video/BV1zo4y197SA?from=search&seid=9891874569533059429)
 
-## 软件环境需求
-（1） .NET Framework 4.5.2及以上版本
-
-（2） Microsoft Visual C++ Redistributable 2019
-
-（3） 最新的NVIDIA显卡驱动
-
-（4） 足够的硬盘空间
-
-（5） 4G以上内存大小(单次批量读取图片数越多，内存占用越大)
-
-如果无NVIDIA显卡，可选用CPU补帧
-
 ## 使用教程（一定要看！！）
+
+Squirrel-RIFE版本:
 
 https://www.bilibili.com/video/BV1uo4y1d7Cr/ 
 
-[1.5参数详解](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/blob/main/1.5%E5%8F%82%E6%95%B0%E8%AF%A6%E8%A7%A3.md)
+[Squirrel-RIFE 1.5参数详解](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/blob/main/1.5%E5%8F%82%E6%95%B0%E8%AF%A6%E8%A7%A3.md)
 
-## 下载地址
+RIFE_GUI版本: [RIFE_GUI](https://github.com/Justin62628/RIFE_GUI)
+
+
+## 下载地址 (SVFI版本)
 Github
 
 https://github.com/YiWeiHuang-stack/Squirrel-Video-Frame-Interpolation/releases/latest
@@ -53,10 +46,13 @@ https://github.com/YiWeiHuang-stack/Squirrel-Video-Frame-Interpolation/releases/
 
 链接：https://pan.xunlei.com/s/VMT5guT2Dq9_N41wVAcwwLt1A1  提取码：6htk
 
-
 One Drive
 
 https://1drv.ms/u/s!ApdPbeVkzObhgQUJHixQSRqMzasm?e=HiQusv
+
+## 下载地址 (RIFE_GUI版本)
+
+[RIFE_GUI](https://github.com/Justin62628/RIFE_GUI)
 
 # 问题反馈
 
