@@ -1,8 +1,8 @@
 # Squirrel-RIFE Video Frame Interpolation
 - BY Squirrel Development Team
-- 基于RIFE算法的补帧软件
+- 基于RIFE算法的中文补帧软件
 
-# 项目将分为Squirrel-RIFE(前SVFI版), RIFE_GUI 两个版本
+# 项目分为Squirrel-RIFE(前SVFI版), RIFE GUI 两个版本
 
 ## 特点
 
@@ -24,13 +24,14 @@
 
 ## 使用教程（一定要看！！）
 
-Squirrel-RIFE版本:
+### Squirrel-RIFE版本:
 
 https://www.bilibili.com/video/BV1uo4y1d7Cr/ 
 
 [Squirrel-RIFE 1.5参数详解](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/blob/main/1.5%E5%8F%82%E6%95%B0%E8%AF%A6%E8%A7%A3.md)
 
-RIFE_GUI版本: [RIFE_GUI](https://github.com/Justin62628/RIFE_GUI)
+### RIFE GUI版本: 
+Github: [RIFE GUI](https://github.com/Justin62628/RIFE_GUI)
 
 
 ## 下载地址 (SVFI版本)
@@ -52,7 +53,12 @@ https://1drv.ms/u/s!ApdPbeVkzObhgQUJHixQSRqMzasm?e=HiQusv
 
 ## 下载地址 (RIFE_GUI版本)
 
-[RIFE_GUI](https://github.com/Justin62628/RIFE_GUI)
+Github: [RIFE_GUI](https://github.com/Justin62628/RIFE_GUI)
+
+百度网盘
+
+链接：https://pan.baidu.com/s/1XTMwHEhN5CMKJWBOkfUopA 
+提取码：anna 
 
 # 问题反馈
 
