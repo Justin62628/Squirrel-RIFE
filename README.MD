@@ -1,4 +1,4 @@
-<img width="160" src="https://gitee.com/NULL204/Squirrel-Video-Frame-Interpolation/blob/main/logo.svg" alt="logo" align="right">
+<img width="160" src="https://images.gitee.com/uploads/images/2021/0327/232901_6a116ba0_8684016.png" alt="logo" align="right">
 
 # Squirrel-RIFE Video Frame Interpolation
   - BY Squirrel Development Team
