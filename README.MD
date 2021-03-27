@@ -1,79 +1,79 @@
-   <img width="160" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRo%0APSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+CiAg%0APG1ldGFkYXRhPjw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2Vo%0AaUh6cmVTek5UY3prYzlkIj8+Cjx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6%0AbnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQyIDc5%0ALjE2MDkyNCwgMjAxNy8wNy8xMy0wMTowNjozOSAgICAgICAgIj4KICAgPHJk%0AZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIy%0ALXJkZi1zeW50YXgtbnMjIj4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6%0AYWJvdXQ9IiIvPgogICA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgogICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0ACiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg%0AICAgICAgICAgICAgICAgCjw/eHBhY2tldCBlbmQ9InciPz48L21ldGFkYXRh%0APgo8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xLCAuY2xzLTMsIC5j%0AbHMtNCB7CiAgICAgICAgZmlsbDogIzQzNDM0MzsKICAgICAgfQoKICAgICAg%0ALmNscy0xIHsKICAgICAgICBzdHJva2U6ICM0MzQzNDM7CiAgICAgICAgc3Ry%0Ab2tlLXdpZHRoOiAxcHg7CiAgICAgIH0KCiAgICAgIC5jbHMtMiB7CiAgICAg%0AICAgZmlsbDogI2QyZDJkMjsKICAgICAgfQoKICAgICAgLmNscy00IHsKICAg%0AICAgICBmaWxsLXJ1bGU6IGV2ZW5vZGQ7CiAgICAgIH0KICAgIDwvc3R5bGU+%0ACiAgPC9kZWZzPgogIDxyZWN0IGlkPSLnn6nlvaJfMSIgZGF0YS1uYW1lPSLn%0An6nlvaIgMSIgY2xhc3M9ImNscy0xIiB4PSItMSIgd2lkdGg9IjI1NyIgaGVp%0AZ2h0PSIyNTYiIHJ4PSIxNSIgcnk9IjE1Ii8+CiAgPHJlY3QgaWQ9IuefqeW9%0Aol8xX+aLt+i0nSIgZGF0YS1uYW1lPSLnn6nlvaIgMSDmi7fotJ0iIGNsYXNz%0APSJjbHMtMiIgeD0iMTkiIHk9IjIwIiB3aWR0aD0iMjE4IiBoZWlnaHQ9IjIx%0ANyIvPgogIDxjaXJjbGUgaWQ9IuakreWchl8xIiBkYXRhLW5hbWU9IuakreWc%0AhiAxIiBjbGFzcz0iY2xzLTMiIGN4PSIxNzEuNDA2IiBjeT0iODkuNjEiIHI9%0AIjExLjc4MSIvPgogIDxwYXRoIGlkPSLnn6nlvaJfMiIgZGF0YS1uYW1lPSLn%0An6nlvaIgMiIgY2xhc3M9ImNscy00IiBkPSJNMTYwLjc2MywxMDguOTdoMjAu%0AODgxdjczLjUxN0gxNjAuNzYzVjEwOC45N1oiLz4KICA8cGF0aCBpZD0i5b2i%0A54q2XzEiIGRhdGEtbmFtZT0i5b2i54q2IDEiIGNsYXNzPSJjbHMtNCIgZD0i%0ATTEzNi4zLDkwLjg4MlY2Ni43NzdTMTA4LjkxLDU1LjYxLDg0LjQyNSw2My41%0AMzJDNTcuNjQ4LDcyLjE5NSw1NS4yMjQsMTA3LDczLjk1OCwxMjAuNTIxYzgu%0ANTYyLDYuMTgsMjAuNTcyLDEyLjY0LDI5Ljk4NCwxNC45NTgsMTUuNDMyLDMu%0AOCwxMi44MTgsMjEuNzU3LDEuNzg3LDI0LjkzOC0xNi4yOTQsMi41OTEtMzgu%0AOC02LjY0OC00NC05LjI3MSwwLjE0OCw3LjA2MS4wMDUsMjAuMSwwLDI1LjUs%0AMTAuODY3LDUuNzksMzUuMDU5LDExLjAzOSw0OC42MzYsNy45ODIsMTAuOTMz%0ALTEuNjQyLDE5LjYtNi42MzcsMjUuNy0xNC45NTcsOC43LTExLjg1Nyw4LjYw%0ANi0zMC4xNTQtMS42MjItNDIuNjI3LTE0LjA3NS0xNy4xNjItMzEuOTYxLTE1%0ALjkxNS00My4wNzQtMjQuNjQ1LTcuOTU2LTYuMjUtNC41OC0xNy4xMjksNS41%0ANTgtMTguNDY2QzEwNC42NjksODIuOTA3LDEyNC42NDEsODQuMTE4LDEzNi4z%0ALDkwLjg4MloiLz4KPC9zdmc+Cg==" alt="logo" align="right">
+<img width="160" src="https://gitee.com/NULL204/Squirrel-Video-Frame-Interpolation/blob/main/logo.svg" alt="logo" align="right">
 
 # Squirrel-RIFE Video Frame Interpolation
   - BY Squirrel Development Team
-  - »ùÓÚRIFEËã·¨µÄÖĞÎÄ²¹Ö¡Èí¼ş
+  - åŸºäºRIFEç®—æ³•çš„ä¸­æ–‡è¡¥å¸§è½¯ä»¶
 
 ----
 
-### Í¨Öª£ºÏîÄ¿·ÖÎªSquirrel-RIFE(Ç°SVFI°æ), RIFE GUI Á½¸ö°æ±¾
+### é€šçŸ¥ï¼šé¡¹ç›®åˆ†ä¸ºSquirrel-RIFE(å‰SVFIç‰ˆ), RIFE GUI ä¸¤ä¸ªç‰ˆæœ¬
 
-## 7¿8 ÌØµã
+## âœ¨ ç‰¹ç‚¹
 
-- Ğ§¹û¸üºÃ£¬ÏÔ´æÕ¼ÓÃ¸üĞ¡£¬ÊÇDAINËÙ¶ÈµÄÊ®Îå±¶
+- æ•ˆæœæ›´å¥½ï¼Œæ˜¾å­˜å ç”¨æ›´å°ï¼Œæ˜¯DAINé€Ÿåº¦çš„åäº”å€
 
-- °üº¬³éÖ¡´¦Àí£¬¿ÉÈ¥³ı¶¯Âş¿¨¶Ù¸Ğ (SVFI°æ±¾)
+- åŒ…å«æŠ½å¸§å¤„ç†ï¼Œå¯å»é™¤åŠ¨æ¼«å¡é¡¿æ„Ÿ (SVFIç‰ˆæœ¬)
 
-## ”9ó5 ÏµÍ³ÒªÇó
+## ğŸ–¥ ç³»ç»Ÿè¦æ±‚
 
 Squirrel-RIFE:
 
-- Windows 7 ¼°ÒÔÉÏ²Ù×÷ÏµÍ³
+- Windows 7 åŠä»¥ä¸Šæ“ä½œç³»ç»Ÿ
 
-- NVIDIA ÏÔ¿¨ÒÔ¼° GeForce Experience Ëù°²×°µÄÇı¶¯
+- NVIDIA æ˜¾å¡ä»¥åŠ GeForce Experience æ‰€å®‰è£…çš„é©±åŠ¨
 
 - Microsoft Visual C++ 2015-2019 Redistributable
 
-- ÖÁÉÙ 6GB ÒÔÉÏÏÔ´æÒÔ¼° 4GB ×óÓÒµÄ¿ÕÓàÄÚ´æ
+- è‡³å°‘ 6GB ä»¥ä¸Šæ˜¾å­˜ä»¥åŠ 4GB å·¦å³çš„ç©ºä½™å†…å­˜
 
 
-## ”9±2 ²¹Ö¡Ğ§¹ûÑİÊ¾ BiliBili
+## ğŸŒ è¡¥å¸§æ•ˆæœæ¼”ç¤º BiliBili
 
-[¡¾120FPS¡¿EVA ¡Á KATE ¡Á Ã×É½Îè¡¸ç±²¨Àö£¬Ê×´Î¿Úºì£¬ÔÚÄÇÖ®ºó¡¹](https://www.bilibili.com/video/BV1yz4y1m7iF)
+[ã€120FPSã€‘EVA Ã— KATE Ã— ç±³å±±èˆã€Œç»«æ³¢ä¸½ï¼Œé¦–æ¬¡å£çº¢ï¼Œåœ¨é‚£ä¹‹åã€](https://www.bilibili.com/video/BV1yz4y1m7iF)
 
-[¡¾4K120fps¡¿TV¶¯»­¡¶Ä§Å®Ö®ÂÃ¡·NCOP ¥ê¥Æ¥é¥Á¥å¥¢](https://www.bilibili.com/video/BV1sr4y1P7Wg?from=search&seid=17356442119935352422)
+[ã€4K120fpsã€‘TVåŠ¨ç”»ã€Šé­”å¥³ä¹‹æ—…ã€‹NCOP ãƒªãƒ†ãƒ©ãƒãƒ¥ã‚¢](https://www.bilibili.com/video/BV1sr4y1P7Wg?from=search&seid=17356442119935352422)
 
-[¡¾60FPS¡¿Final Phase](https://www.bilibili.com/video/BV1gK4y1Q7d9?from=search&seid=9891874569533059429)
+[ã€60FPSã€‘Final Phase](https://www.bilibili.com/video/BV1gK4y1Q7d9?from=search&seid=9891874569533059429)
 
-[¡¾SVFI²åÖ¡ÑİÊ¾¡¿£¨¡¶±À»µ3¡·¶¯»­¶ÌÆ¬¡¸¶É³¾¡¹£©](https://www.bilibili.com/video/BV1fX4y1P7s3)
+[ã€SVFIæ’å¸§æ¼”ç¤ºã€‘ï¼ˆã€Šå´©å3ã€‹åŠ¨ç”»çŸ­ç‰‡ã€Œæ¸¡å°˜ã€ï¼‰](https://www.bilibili.com/video/BV1fX4y1P7s3)
 
-[¡¾ÃüÔËÊ¯Ö®ÃÅOP¡¿](https://www.bilibili.com/video/BV1zo4y197SA?from=search&seid=9891874569533059429)
+[ã€å‘½è¿çŸ³ä¹‹é—¨OPã€‘](https://www.bilibili.com/video/BV1zo4y197SA?from=search&seid=9891874569533059429)
 
-## ”9ß4 Ê¹ÓÃ½Ì³Ì£¨Ò»¶¨Òª¿´£¡£¡£©
+## ğŸ“œ ä½¿ç”¨æ•™ç¨‹ï¼ˆä¸€å®šè¦çœ‹ï¼ï¼ï¼‰
 
 ### Squirrel-RIFE:
 
 https://www.bilibili.com/video/BV1uo4y1d7Cr/ 
 
-[Squirrel-RIFE 1.5²ÎÊıÏê½â](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/blob/main/1.5%E5%8F%82%E6%95%B0%E8%AF%A6%E8%A7%A3.md)
+[Squirrel-RIFE 1.5å‚æ•°è¯¦è§£](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/blob/main/1.5%E5%8F%82%E6%95%B0%E8%AF%A6%E8%A7%A3.md)
 
 ### RIFE GUI: 
 Github: [RIFE GUI](https://github.com/Justin62628/RIFE_GUI)
 
 
-## ”9à4„1‚5 ÏÂÔØµØÖ·
+## ğŸ“¦ï¸ ä¸‹è½½åœ°å€
 
 ### Squirrel-RIFE:
 
-Github£º[Squirrel-RIFE](https://github.com/YiWeiHuang-stack/Squirrel-Video-Frame-Interpolation/releases/latest)
+Githubï¼š[Squirrel-RIFE](https://github.com/YiWeiHuang-stack/Squirrel-Video-Frame-Interpolation/releases/latest)
 
-°Ù¶ÈÍøÅÌ£º[µã»÷ÕâÀï](https://pan.baidu.com/s/1WDndjRemR2Hku6eeElCK8Q) ÌáÈ¡Âë£ºnull 
+ç™¾åº¦ç½‘ç›˜ï¼š[ç‚¹å‡»è¿™é‡Œ](https://pan.baidu.com/s/1WDndjRemR2Hku6eeElCK8Q) æå–ç ï¼šnull 
 
 ### RIFE GUI:
 
 Github: [RIFE_GUI](https://github.com/Justin62628/RIFE_GUI)
 
-°Ù¶ÈÍøÅÌ£º[µã»÷ÕâÀï](https://pan.baidu.com/s/1XTMwHEhN5CMKJWBOkfUopA) ÌáÈ¡Âë£ºanna 
+ç™¾åº¦ç½‘ç›˜ï¼š[ç‚¹å‡»è¿™é‡Œ](https://pan.baidu.com/s/1XTMwHEhN5CMKJWBOkfUopA) æå–ç ï¼šanna 
 
-## 7¤1„1‚5 ÎÊÌâ·´À¡
+## â˜‘ï¸ é—®é¢˜åé¦ˆ
 
-µã»÷¼ÓÈëÈºÁÄ[¡¾SVFI½»Á÷Èº¡¿](https://jq.qq.com/?_wv=1027&k=BKQQ75b9)
+ç‚¹å‡»åŠ å…¥ç¾¤èŠ[ã€SVFIäº¤æµç¾¤ã€‘](https://jq.qq.com/?_wv=1027&k=BKQQ75b9)
 
-## ²Î¿¼
+## å‚è€ƒ
 
-Ëã·¨: [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)
+ç®—æ³•: [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)
 
-´úÂë: [RIFEInterpolation](https://github.com/YiWeiHuang-stack/RIFEInterpolation)   [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)   [RIFE_GUI](https://github.com/Justin62628/RIFE_GUI)
+ä»£ç : [RIFEInterpolation](https://github.com/YiWeiHuang-stack/RIFEInterpolation)   [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)   [RIFE_GUI](https://github.com/Justin62628/RIFE_GUI)
 
-## ÓĞÄÜÁ¦µÄÍ¯Ğ¬ÔŞÖúÒ»ÏÂßÂ~ 
+## æœ‰èƒ½åŠ›çš„ç«¥é‹èµåŠ©ä¸€ä¸‹å‘—~ 
 <img src="https://images.gitee.com/uploads/images/2021/0209/224545_829e9da8_8684016.png" width="33%"><img src="https://images.gitee.com/uploads/images/2021/0209/224532_50e45c52_8684016.jpeg" width="33%"><img src="https://images.gitee.com/uploads/images/2021/0209/225247_3301beaa_8684016.png" width="33%">
