@@ -1,8 +1,8 @@
-<img width="160" src="https://images.gitee.com/uploads/images/2021/0327/232901_6a116ba0_8684016.png" alt="logo" align="right">
+<img width="18%" src="https://images.gitee.com/uploads/images/2021/0327/232901_6a116ba0_8684016.png" alt="logo" align="right">
 
 # Squirrel-RIFE Video Frame Interpolation
-  - BY Squirrel Development Team
-  - 基于RIFE算法的中文补帧软件
+ - BY Squirrel Development Team
+ - 基于RIFE算法的中文补帧软件
 
 ----
 
@@ -30,6 +30,8 @@ Squirrel-RIFE:
 ## 🌎 补帧效果演示 BiliBili
 
 [【120FPS】EVA × KATE × 米山舞「绫波丽，首次口红，在那之后」](https://www.bilibili.com/video/BV1yz4y1m7iF)
+
+[【100 FPS】【泠鸢】大喜【SVFI 更先进的补帧技术】](https://www.bilibili.com/video/BV1up4y1h7Jr)
 
 [【4K120fps】TV动画《魔女之旅》NCOP リテラチュア](https://www.bilibili.com/video/BV1sr4y1P7Wg?from=search&seid=17356442119935352422)
 
