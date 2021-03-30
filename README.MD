@@ -6,7 +6,7 @@
 
 ----
 
-### 通知：项目分为Squirrel-RIFE(前SVFI版), RIFE GUI 两个版本
+### 通知：近期将会合并原SVFI和RIFE_GUI
 
 ## ✨ 特点
 
