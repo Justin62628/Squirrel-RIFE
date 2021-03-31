@@ -24,7 +24,7 @@ Squirrel-RIFE:
 
 - Microsoft Visual C++ 2015-2019 Redistributable
 
-- 至少 6GB 以上显存以及 4GB 左右的空余内存
+- 至少 2GB 以上显存以及 4GB 左右的空余内存
 
 
 ## 🌎 补帧效果演示 BiliBili
