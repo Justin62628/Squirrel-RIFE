@@ -43,29 +43,25 @@ Squirrel-RIFE:
 
 ## 📜 使用教程（一定要看！！）
 
-### Squirrel-RIFE:
+### Squirrel-RIFE-1.4:
 
 https://www.bilibili.com/video/BV1uo4y1d7Cr/ 
 
 [Squirrel-RIFE 1.4参数详解](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/blob/main/1.5%E5%8F%82%E6%95%B0%E8%AF%A6%E8%A7%A3.md)
 
-### RIFE GUI: 
-Github: [RIFE GUI](https://github.com/Justin62628/RIFE_GUI)
+### Squirrel-RIFE-2.: 
+Github: [Squirrel-RIFE-2.](https://github.com/Justin62628/RIFE_GUI)
 
 
-## 📦️ 下载地址
+## 📦️ 下载地址（我们提供两个稳定版本的下载链接）
 
-### Squirrel-RIFE:
+### Squirrel-RIFE 1.4:
 
-Github：[Squirrel-RIFE](https://github.com/YiWeiHuang-stack/Squirrel-Video-Frame-Interpolation/releases/latest)
+Github：[Squirrel-RIFE-1.4](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/releases/tag/v1.4)
 
-百度网盘：[点击这里](https://pan.baidu.com/s/1WDndjRemR2Hku6eeElCK8Q) 提取码：null 
+### Squirrel-RIFE 2.:
 
-### RIFE GUI:
-
-Github: [RIFE_GUI](https://github.com/Justin62628/RIFE_GUI)
-
-百度网盘：[点击这里](https://pan.baidu.com/s/1XTMwHEhN5CMKJWBOkfUopA) 提取码：anna 
+Github：[Squirrel-RIFE-2.](https://github.com/YiWeiHuang-stack/Squirrel-Video-Frame-Interpolation/releases/latest)
 
 ## ☑️ 问题反馈
 
