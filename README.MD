@@ -47,8 +47,8 @@ https://www.bilibili.com/video/BV1uo4y1d7Cr/
 
 [Squirrel-RIFE 1.4参数详解](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/blob/main/1.5%E5%8F%82%E6%95%B0%E8%AF%A6%E8%A7%A3.md)
 
-### Squirrel-RIFE-2.: 
-Github: [Squirrel-RIFE-2.](https://github.com/Justin62628/RIFE_GUI)
+### Squirrel-RIFE-2.1: 
+Github: [Squirrel-RIFE-2.1]()
 
 
 ## 📦️ 下载地址（我们提供两个稳定版本的下载链接）
@@ -57,9 +57,15 @@ Github: [Squirrel-RIFE-2.](https://github.com/Justin62628/RIFE_GUI)
 
 Github：[Squirrel-RIFE-1.4](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/releases/tag/v1.4)
 
-### Squirrel-RIFE 2.:
+### Squirrel-RIFE 2.1:
 
-Github：[Squirrel-RIFE-2.](https://github.com/YiWeiHuang-stack/Squirrel-Video-Frame-Interpolation/releases/latest)
+Github：[Squirrel-RIFE-2.1](https://github.com/YiWeiHuang-stack/Squirrel-Video-Frame-Interpolation/releases/latest)
+
+百度网盘: [Squirrel-RIFE-2.1](https://pan.baidu.com/s/130KpNA1B3GQ0hEFXIPnfbA)
+
+直链: [Squirrel-RIFE-2.1]https://main.lpan.cc/api/v3/file/source/3678/SVFI.2.1.7z?sign=boSN86WZJpma2ZxO2mjNIe2WFHoSJI8PSljJeSwA1es%3D%3A0
+
+提取码：SVFI
 
 ## ☑️ 问题反馈
 
