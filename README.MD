@@ -63,7 +63,7 @@ Github：[Squirrel-RIFE-2.1](https://github.com/YiWeiHuang-stack/Squirrel-Video-
 
 百度网盘: [Squirrel-RIFE-2.1](https://pan.baidu.com/s/130KpNA1B3GQ0hEFXIPnfbA)
 
-直链: [Squirrel-RIFE-2.1]https://main.lpan.cc/api/v3/file/source/3678/SVFI.2.1.7z?sign=boSN86WZJpma2ZxO2mjNIe2WFHoSJI8PSljJeSwA1es%3D%3A0
+直链: [Squirrel-RIFE-2.1](https://main.lpan.cc/api/v3/file/source/3678/SVFI.2.1.7z?sign=boSN86WZJpma2ZxO2mjNIe2WFHoSJI8PSljJeSwA1es%3D%3A0)
 
 提取码：SVFI
 
