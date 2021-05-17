@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RIFE_APP"
         mc:Ignorable="d"
-        Title="ConfigMaker" Height="531.654" Width="895.78" FontWeight="Bold" FontSize="14" Closing="Window_Closing" WindowStartupLocation="Manual" ResizeMode="CanMinimize">
+        Title="SVFI" Height="531.654" Width="895.78" FontWeight="Bold" FontSize="14" Closing="Window_Closing" WindowStartupLocation="Manual" ResizeMode="CanMinimize">
     <Grid Margin="0,0,0,1.333">
         <Button x:Name="btn_input" Click="btn_input_Click" Content="导入文件/文件夹" HorizontalAlignment="Left" VerticalAlignment="Top" Width="837" FontSize="12" FontWeight="Bold" Margin="27,70,0,0"/>
         <RadioButton x:Name="rbtn_v" Content="单文件" IsChecked="True" HorizontalAlignment="Left" Margin="204,51,0,0" VerticalAlignment="Top"/>
