@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\MyFiles\code\SVFIClone\Squirrel-RIFE\UI部分\RIFE-APP\obj\Debug\
+D:\MyFiles\code\SVFIClone\Squirrel-RIFE\UI部分\RIFE-APP\obj\Release\
 RIFE_APP
 none
 false
-DEBUG;TRACE
+TRACE
 D:\MyFiles\code\SVFIClone\Squirrel-RIFE\UI部分\RIFE-APP\App.xaml
 4-54053965
 
-131476426744
+121093938508
 17-594341137
 Aut.xaml;MainWindow.xaml;Pages\Page1.xaml;Pages\Page3.xaml;
 
-False
+True
 
