@@ -8,9 +8,9 @@
 
 ## ✨ 特点
 
-- 效果更好，显存占用更小，是DAIN速度的十五倍
+- 效果更好，显存占用极小，是DAIN速度的二十倍
 
-- 包含抽帧处理，可去除动漫卡顿感 (SVFI版本)
+- 包含抽帧处理，可去除动漫卡顿感
 
 ## 🖥 系统要求
 - Windows 7 及以上操作系统
@@ -42,8 +42,6 @@
 
 https://www.bilibili.com/video/BV1uo4y1d7Cr/ 
 
-[Squirrel-RIFE 1.5参数详解](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/blob/main/1.5%E5%8F%82%E6%95%B0%E8%AF%A6%E8%A7%A3.md)
-
 ## 📦️ 软件界面
 ![Demo](./static/demo.png)
 
@@ -51,13 +49,7 @@ https://www.bilibili.com/video/BV1uo4y1d7Cr/
 
 ### Squirrel-RIFE:
 
-Github：[Squirrel-RIFE](https://github.com/YiWeiHuang-stack/Squirrel-Video-Frame-Interpolation/releases/latest)
-
-百度网盘：[点击这里](https://pan.baidu.com/s/1WDndjRemR2Hku6eeElCK8Q) 提取码：null 
-
-### RIFE GUI:
-
-Github: [RIFE_GUI](https://github.com/Justin62628/RIFE_GUI)
+Github: [2.3.beta](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/releases/tag/v2.3.beta)
 
 ## ☑️ 问题反馈
 
@@ -71,6 +63,3 @@ Github: [RIFE_GUI](https://github.com/Justin62628/RIFE_GUI)
 - [python-ncnn-rife](https://github.com/ArchieMeng/rife-ncnn-vulkan-python)
 - [RIFEInterpolation](https://github.com/YiWeiHuang-stack/RIFEInterpolation)  
 - [RIFE_GUI](https://github.com/Justin62628/RIFE_GUI)
-
-## 有能力的童鞋赞助一下呗~ 
-<img src="https://images.gitee.com/uploads/images/2021/0209/224545_829e9da8_8684016.png" width="33%"><img src="https://images.gitee.com/uploads/images/2021/0209/224532_50e45c52_8684016.jpeg" width="33%"><img src="https://images.gitee.com/uploads/images/2021/0209/225247_3301beaa_8684016.png" width="33%">
