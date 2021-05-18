@@ -13,9 +13,6 @@
 - 包含抽帧处理，可去除动漫卡顿感 (SVFI版本)
 
 ## 🖥 系统要求
-
-Squirrel-RIFE:
-
 - Windows 7 及以上操作系统
 
 - NVIDIA 显卡以及 GeForce Experience 所安装的驱动
@@ -41,29 +38,26 @@ Squirrel-RIFE:
 
 ## 📜 使用教程（一定要看！！）
 
-### Squirrel-RIFE-1.4:
+### Squirrel-RIFE:
 
 https://www.bilibili.com/video/BV1uo4y1d7Cr/ 
 
-[Squirrel-RIFE 1.4参数详解](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/blob/main/1.5%E5%8F%82%E6%95%B0%E8%AF%A6%E8%A7%A3.md)
+[Squirrel-RIFE 1.5参数详解](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/blob/main/1.5%E5%8F%82%E6%95%B0%E8%AF%A6%E8%A7%A3.md)
 
-### Squirrel-RIFE-2.1: 
-Github: [Squirrel-RIFE-2.1]()
+## 📦️ 软件界面
+![Demo](./static/demo.png)
 
+## 📦️ 下载地址
 
-## 📦️ 下载地址（我们提供两个稳定版本的下载链接）
+### Squirrel-RIFE:
 
-### Squirrel-RIFE 1.4:
+Github：[Squirrel-RIFE](https://github.com/YiWeiHuang-stack/Squirrel-Video-Frame-Interpolation/releases/latest)
 
-Github：[Squirrel-RIFE-1.4](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/releases/tag/v1.4)
+百度网盘：[点击这里](https://pan.baidu.com/s/1WDndjRemR2Hku6eeElCK8Q) 提取码：null 
 
-### Squirrel-RIFE 2.1:
+### RIFE GUI:
 
-Github：[Squirrel-RIFE-2.1](https://github.com/YiWeiHuang-stack/Squirrel-Video-Frame-Interpolation/releases/latest)
-
-百度网盘: [Squirrel-RIFE-2.1](https://pan.baidu.com/s/1WDndjRemR2Hku6eeElCK8Q )   提取码：NULL
-
-直链: [Squirrel-RIFE-2.1](https://main.lpan.cc/api/v3/file/source/3678/SVFI.2.1.7z?sign=boSN86WZJpma2ZxO2mjNIe2WFHoSJI8PSljJeSwA1es%3D%3A0)
+Github: [RIFE_GUI](https://github.com/Justin62628/RIFE_GUI)
 
 ## ☑️ 问题反馈
 
@@ -71,9 +65,12 @@ Github：[Squirrel-RIFE-2.1](https://github.com/YiWeiHuang-stack/Squirrel-Video-
 
 ## 参考
 
-算法: [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)
-
-代码: [RIFEInterpolation](https://github.com/YiWeiHuang-stack/RIFEInterpolation)   [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)   [RIFE_GUI](https://github.com/Justin62628/RIFE_GUI)
+- [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)
+- [ncnn](https://github.com/Tencent/ncnn)
+- [ncnn-rife](https://github.com/nihui/rife-ncnn-vulkan)
+- [python-ncnn-rife](https://github.com/ArchieMeng/rife-ncnn-vulkan-python)
+- [RIFEInterpolation](https://github.com/YiWeiHuang-stack/RIFEInterpolation)  
+- [RIFE_GUI](https://github.com/Justin62628/RIFE_GUI)
 
 ## 有能力的童鞋赞助一下呗~ 
-<img src="https://images.gitee.com/uploads/images/2021/0209/224545_829e9da8_8684016.png" width="33%"><img src="https://images.gitee.com/uploads/images/2021/0501/170450_ff643783_8684016.png" width="33%"><img src="https://images.gitee.com/uploads/images/2021/0209/225247_3301beaa_8684016.png" width="33%">
+<img src="https://images.gitee.com/uploads/images/2021/0209/224545_829e9da8_8684016.png" width="33%"><img src="https://images.gitee.com/uploads/images/2021/0209/224532_50e45c52_8684016.jpeg" width="33%"><img src="https://images.gitee.com/uploads/images/2021/0209/225247_3301beaa_8684016.png" width="33%">
