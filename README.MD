@@ -43,7 +43,7 @@
 https://www.bilibili.com/video/BV1uo4y1d7Cr/ 
 
 ## 📦️ 软件界面
-![Demo](./static/demo.png)
+![Demo](https://images.gitee.com/uploads/images/2021/0523/101032_abced983_8684016.png)
 
 ## 📦️ 下载地址
 
