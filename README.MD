@@ -9,7 +9,7 @@
 ## ✨ 特点 Feature
 
 - 效果更好，显存占用极小，是DAIN速度的二十倍 More effective, takes up less memory, and is 20 times faster than Dain
-- 超高精度转场识别，可在大量视频中达到95%以上的精确度，并不破坏丝滑度Ultra high precision transition recognition, can achieve more than 95% accuracy in a large number of videos, without damaging the slippage
+- 超高精度转场识别，可在大量视频中达到95%以上的精确度，并不破坏丝滑度 Ultra high precision transition recognition, can achieve more than 95% accuracy in a large number of videos, without damaging the slippage
 - 包含抽帧处理，可去除动漫卡顿感 Include extraction frame processing, can remove animation caton
 
 ## 🖥 系统要求 System Requirements
@@ -34,7 +34,7 @@
 
 [【SVFI插帧演示】（《崩坏3》动画短片「渡尘」）](https://www.bilibili.com/video/BV1fX4y1P7s3)
 
-[【命运石之门OP】](https://www.bilibili.com/video/BV1zo4y197SA?from=search&seid=9891874569533059429)
+[【𝟒𝐊/𝟏𝟐𝟎𝐅𝐏𝐒】「明日方舟」阿米娅升变动画——该用什么回敬你的不义 4K 全站最高画质](https://www.bilibili.com/video/BV1Gi4y1N7FG)
 
 ## 📜 使用教程 Tutorial（一定要看！！）
 
