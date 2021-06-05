@@ -1,7 +1,7 @@
 <img width="18%" src="https://images.gitee.com/uploads/images/2021/0327/232901_6a116ba0_8684016.png" alt="logo" align="right">
 
 # Squirrel-RIFE Video Frame Interpolation
- - 𝘉𝘠 𝔹𝕐 𝕊𝕢𝕦𝕚𝕣𝕣𝕖𝕝 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥 𝕋𝕖𝕒𝕞
+ - 𝗕𝗬 𝗦𝗾𝘂𝗶𝗿𝗿𝗲𝗹 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗧𝗲𝗮𝗺
  - 基于RIFE算法的中文补帧软件
 
 ----
