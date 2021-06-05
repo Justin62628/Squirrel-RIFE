@@ -8,21 +8,21 @@
 
 ## ✨ 特点 Feature
 
-- 效果更好，显存占用极小，是DAIN速度的二十倍
-- 超高精度转场识别，可在大量视频中达到95%以上的精确度，并不破坏丝滑度
-- 包含抽帧处理，可去除动漫卡顿感
+- 效果更好，显存占用极小，是DAIN速度的二十倍 More effective, takes up less memory, and is 20 times faster than Dain
+- 超高精度转场识别，可在大量视频中达到95%以上的精确度，并不破坏丝滑度Ultra high precision transition recognition, can achieve more than 95% accuracy in a large number of videos, without damaging the slippage
+- 包含抽帧处理，可去除动漫卡顿感 Include extraction frame processing, can remove animation caton
 
 ## 🖥 系统要求 System Requirements
-- Windows 7 及以上操作系统
-
+- Windows 7 及以上操作系统 Windows 7 and above
+ 
 - NVIDIA 显卡以及 GeForce Experience 所安装的驱动
 
 - Microsoft Visual C++ 2015-2019 Redistributable
 
-- 至少 2GB 以上显存以及 4GB 左右的空余内存
+- 至少 2GB 以上显存以及 4GB 左右的空余内存 At least 2GB of video memory and around 4GB of free memory
 
 
-## 🌎 补帧效果演示 BiliBili
+## 🌎 补帧效果演示 Demonstration on BiliBili
 
 [【120FPS】EVA × KATE × 米山舞「绫波丽，首次口红，在那之后」](https://www.bilibili.com/video/BV1yz4y1m7iF)
 
