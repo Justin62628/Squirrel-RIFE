@@ -30,7 +30,7 @@
 
 [【4K120fps】TV动画《魔女之旅》NCOP リテラチュア](https://www.bilibili.com/video/BV1sr4y1P7Wg?from=search&seid=17356442119935352422)
 
-[【60FPS】Final Phase](https://www.bilibili.com/video/BV1gK4y1Q7d9?from=search&seid=9891874569533059429)
+[【𝟒𝐊/𝟔𝟎𝐅𝐏𝐒】《明日方舟》游戏概念宣传PV-3 全站最高画质 4K SVFI3.1补帧测试](https://www.bilibili.com/video/BV17K4y1R7h4)
 
 [【SVFI插帧演示】（《崩坏3》动画短片「渡尘」）](https://www.bilibili.com/video/BV1fX4y1P7s3)
 
