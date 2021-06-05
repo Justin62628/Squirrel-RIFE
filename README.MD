@@ -50,6 +50,7 @@ https://www.bilibili.com/video/BV1uo4y1d7Cr/
 ### Squirrel-RIFE:
 
 Github: [2.3.beta](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/releases/tag/v2.3.beta)
+
 百度网盘:[2.3.beta 提取码mlbf](https://pan.baidu.com/s/16rmr5wX6O3_ncKblG13mzw)
 ## ☑️ 问题反馈
 
