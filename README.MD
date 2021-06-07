@@ -22,15 +22,15 @@
 
 ## 🌎 补帧效果演示 Demonstration on BiliBili
 
-[【120FPS】EVA × KATE × 米山舞「绫波丽，首次口红，在那之后」](https://www.bilibili.com/video/BV1yz4y1m7iF)
+[【𝟒𝐊/𝟔𝟎𝐅𝐏𝐒】Fate/Grand Order 绝对魔兽战线 Prover-milet 全站最高画质 4K](https://www.bilibili.com/video/BV1Fv41157Zy)
 
 [【100 FPS】【泠鸢】大喜【SVFI 更先进的补帧技术】](https://www.bilibili.com/video/BV1up4y1h7Jr)
 
-[【4K120fps】TV动画《魔女之旅》NCOP リテラチュア](https://www.bilibili.com/video/BV1sr4y1P7Wg?from=search&seid=17356442119935352422)
+[【𝟒𝐊/𝟔𝟎𝐅𝐏𝐒】君主·埃尔梅罗二世事件簿 魔眼收集列车 Grace note NCOP 全站最高画质 4K](https://www.bilibili.com/video/BV1hA41137LM)
 
 [【𝟒𝐊/𝟔𝟎𝐅𝐏𝐒】《明日方舟》游戏概念宣传PV-3 全站最高画质 4K SVFI3.1补帧测试](https://www.bilibili.com/video/BV17K4y1R7h4)
 
-[【SVFI插帧演示】（《崩坏3》动画短片「渡尘」）](https://www.bilibili.com/video/BV1fX4y1P7s3)
+[【𝟒𝐊/𝟔𝟎𝐅𝐏𝐒】Fate/Apocrypha NCOP《Ash》LiSA 全站最高画质 4K](https://www.bilibili.com/video/BV1sh411e76T)
 
 [【𝟒𝐊/𝟏𝟐𝟎𝐅𝐏𝐒】「明日方舟」阿米娅升变动画——该用什么回敬你的不义 4K 全站最高画质](https://www.bilibili.com/video/BV1Gi4y1N7FG)
 
