@@ -15,9 +15,7 @@
 ## 🖥 系统要求 System Requirements
 - Windows 7 及以上操作系统 Windows 7 and above
  
-- NVIDIA 显卡以及 GeForce Experience 所安装的驱动
-
-- Microsoft Visual C++ 2015-2019 Redistributable
+- NVIDIA 显卡需要 GeForce Experience 所安装的驱动版本大于等于460.89
 
 - 至少 2GB 以上显存以及 4GB 左右的空余内存 At least 2GB of video memory and around 4GB of free memory
 
@@ -52,6 +50,7 @@ https://www.bilibili.com/video/BV1uo4y1d7Cr/
 Github: [2.3.beta](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/releases/tag/v2.3.beta)
 
 百度网盘:[2.3.beta 提取码mlbf](https://pan.baidu.com/s/16rmr5wX6O3_ncKblG13mzw)
+
 ## ☑️ 问题反馈
 
 点击加入群聊[【SVFI交流群】](https://jq.qq.com/?_wv=1027&k=BKQQ75b9)
