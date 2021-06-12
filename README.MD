@@ -40,7 +40,7 @@
 
 https://www.bilibili.com/video/BV1uo4y1d7Cr/ 
 
-## 📦️ 软件界面 Software Interface
+## 🌐 软件界面 Software Interface
 ![Demo](https://images.gitee.com/uploads/images/2021/0523/101032_abced983_8684016.png)
 
 ## 📦️ 下载地址 Download
@@ -55,7 +55,7 @@ Github: [2.3.beta](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/releases/ta
 
 点击加入群聊[【SVFI交流群】](https://jq.qq.com/?_wv=1027&k=BKQQ75b9)
 
-## ☑️ SVFI黑名单 截至至2021年6月8号
+## 🚫 SVFI黑名单 截至至2021年6月8号
 
 ### 1. QQ号 𝟭𝟵𝟯𝟵𝟵𝟯𝟮𝟯𝟭𝟬 
 此人恶劣行为过多 在此指列举部分:
