@@ -8,16 +8,22 @@
 
 ## ✨ 特点 Feature
 
-- 效果更好，显存占用极小，是DAIN速度的二十倍 More effective, takes up less memory, and is 20 times faster than Dain
-- 超高精度转场识别，可在大量视频中达到95%以上的精确度，并不破坏丝滑度 Ultra high precision transition recognition, can achieve more than 95% accuracy in a large number of videos, without damaging the slippage
-- 包含抽帧处理，可去除动漫卡顿感 Include extraction frame processing, can remove animation caton
+- 效果更好，显存占用极小，是DAIN速度的二十倍 
+- More effective, takes up less memory, and is 20 times faster than Dain
+- 超高精度转场识别，可在大量视频中达到95%以上的精确度，并不破坏丝滑度 
+- Ultra high precision transition recognition, can achieve more than 95% accuracy in a large number of videos, without damaging the slippage
+- 包含抽帧处理，可去除动漫卡顿感 
+- Include extraction frame processing, can remove animation caton
 
 ## 🖥 系统要求 System Requirements
-- Windows 7 及以上操作系统 Windows 7 and above
+- Windows 7 及以上操作系统 
+- Windows 7 or above
  
 - NVIDIA 显卡需要 GeForce Experience 所安装的驱动版本大于等于460.89
+- NVIDIA graphics processing unit with driver version of 460.89 or greater installed by GeForce Experience
 
-- 至少 2GB 以上显存以及 4GB 左右的空余内存 At least 2GB of video memory and around 4GB of free memory
+- 至少 2GB 以上显存以及 4GB 左右的空余内存 
+- At least 2GB of video memory and around 4GB of free memory
 
 
 ## 🌎 补帧效果演示 Demonstration on BiliBili
@@ -64,7 +70,7 @@ Github: [2.3.beta](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/releases/ta
 - 6月10号更新 公开诽谤 SVFI开发组员 正在收集 整理证据并 从北京市第二中级人民法院发起诉讼 
 
 ### 2. QQ号 𝟯𝟯𝟲𝟭𝟲𝟮𝟱𝟲𝟴𝟰 
-常用名huhu,fufu,二刺猿等 在群内分享不当言论 疯狂白嫖 败坏群风
+- 常用名huhu,fufu,二刺猿等 在群内分享不当言论 疯狂白嫖 败坏群风
 
 ## 参考
 
