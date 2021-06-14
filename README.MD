@@ -72,6 +72,9 @@ Github: [2.3.beta](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/releases/ta
 ### 2. QQ号 𝟯𝟯𝟲𝟭𝟲𝟮𝟱𝟲𝟴𝟰 
 - 常用名huhu,fufu,二刺猿等 在群内分享不当言论 疯狂白嫖 败坏群风
 
+### 3. QQ号 𝟯𝟬𝟳𝟵𝟴𝟱𝟵𝟴𝟳𝟭
+- 侮辱开发组劳动成果 
+
 ## 参考
 
 - [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)
