@@ -75,7 +75,7 @@ Github: [2.3.beta](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/releases/ta
 ### 3. QQ号 𝟯𝟬𝟳𝟵𝟴𝟱𝟵𝟴𝟳𝟭
 - 侮辱开发组劳动成果 
 
-### 4. 微信号 𝗰𝗰_𝟮𝟭𝟵_𝗚𝗚 和 微信号 𝗰𝗹𝗼𝘂𝗱𝗰𝗼𝘄𝗰𝗼𝘄
+### 4. 微信号 𝗰𝗰_𝟮𝟭𝟵_𝗚𝗚 （昵称：ΕulerFans） 和 微信号 𝗰𝗹𝗼𝘂𝗱𝗰𝗼𝘄𝗰𝗼𝘄 （昵称：佐茗.）
 - 侮辱开发组劳动成果 
 
 ## 参考
