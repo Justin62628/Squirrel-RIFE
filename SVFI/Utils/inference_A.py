@@ -1,19 +1,16 @@
 import os
-import warnings
 import traceback
-import numpy
-from Utils.utils import Utils
-import cv2
-from PIL import Image
+import warnings
 
 from ncnn.rife import rife_ncnn_vulkan
 
 warnings.filterwarnings("ignore")
-Utils = Utils()
+# Utils = Utils()
 raw = rife_ncnn_vulkan.raw
 
+
 class RifeInterpolation(rife_ncnn_vulkan.RIFE):
-    def __init__(self, __args:dict):
+    def __init__(self, __args: dict):
         uhd_mode = True if __args["exp"] < 1 else False
         super().__init__(__args["ncnn_gpu"], os.path.basename(__args["selected_model"]),
                          tta_mode=__args.get("tta_mode", False), uhd_mode=uhd_mode, num_threads=4)
@@ -34,7 +31,7 @@ class RifeInterpolation(rife_ncnn_vulkan.RIFE):
             return
         self.initiated = True
 
-    def __make_inference(self, i1: Image, i2: Image, scale, exp):
+    def __make_inference(self, i1, i2, scale, exp):
         # i1 = self.generate_input_img(img1)
         # i2 = self.generate_input_img(img2)
         if self.args["reverse"]:
@@ -49,7 +46,7 @@ class RifeInterpolation(rife_ncnn_vulkan.RIFE):
         second_half = self.__make_inference(mid, i2, scale, exp=exp - 1)
         return [*first_half, mid, *second_half]
 
-    def __make_n_inference(self, i1: Image, i2: Image, scale, n):
+    def __make_n_inference(self, i1, i2, scale, n):
         if self.args["reverse"]:
             mid = self.process(i1, i2)[0]
         else:
@@ -70,9 +67,10 @@ class RifeInterpolation(rife_ncnn_vulkan.RIFE):
         :param img: cv2.imread [:, :, ::-1]
         :return:
         """
+        return img
         try:
-            image = Image.fromarray(cv2.cvtColor(img, cv2.COLOR_BGR2RGB))
-            return image
+            pass
+            # image = Image.fromarray(cv2.cvtColor(img, cv2.COLOR_BGR2RGB))
         except Exception as e:
             print(img)
             traceback.print_exc()
@@ -106,7 +104,7 @@ class RifeInterpolation(rife_ncnn_vulkan.RIFE):
         else:
             interp_gen = self.__make_inference(img1, img2, scale, exp=exp)
 
-        return [cv2.cvtColor(numpy.asarray(i), cv2.COLOR_RGB2BGR) for i in interp_gen]
+        return interp_gen
 
     def generate_n_interp(self, img1, img2, n, scale, debug=False, test=False):
         if debug:
@@ -117,8 +115,7 @@ class RifeInterpolation(rife_ncnn_vulkan.RIFE):
         img1 = self.generate_input_img(img1)
         img2 = self.generate_input_img(img2)
         interp_gen = self.__make_n_inference(img1, img2, scale, n)
-        return [cv2.cvtColor(numpy.asarray(i), cv2.COLOR_RGB2BGR) for i in interp_gen]
-        # return interp_gen
+        return interp_gen
 
     def run(self):
         pass

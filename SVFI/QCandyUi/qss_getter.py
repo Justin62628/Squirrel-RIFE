@@ -94,7 +94,7 @@ def getPushButtonQss(normalColor, normalTextColor, hoverColor, hoverTextColor, p
     str_ = """
         QPushButton#replace{background:%s;border:2px solid %s;}
     """ % (BLUEGRAY, BLUEGRAY)
-    replace_list = ["InputButton", "OutputButton", "InputDirButton", "OutputSettingsButton"]
+    replace_list = ["InputButton", "OutputButton", "InputDirButton", "OutputSettingsButton", "RefreshStartInfo"]
     str6 = "\n".join(list(map(lambda x: str_.replace('replace', x), replace_list)))
 
     str_ = """

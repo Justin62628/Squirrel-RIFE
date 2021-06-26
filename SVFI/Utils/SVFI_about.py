@@ -44,7 +44,7 @@ class Ui_Dialog(object):
         self.gridLayout.addWidget(self.scrollArea, 0, 0, 1, 1)
         self.buttonBox = QtWidgets.QDialogButtonBox(Dialog)
         self.buttonBox.setOrientation(QtCore.Qt.Horizontal)
-        self.buttonBox.setStandardButtons(QtWidgets.QDialogButtonBox.Cancel|QtWidgets.QDialogButtonBox.Ok)
+        self.buttonBox.setStandardButtons(QtWidgets.QDialogButtonBox.Cancel | QtWidgets.QDialogButtonBox.Ok)
         self.buttonBox.setObjectName("buttonBox")
         self.gridLayout.addWidget(self.buttonBox, 1, 0, 1, 1)
 
@@ -56,4 +56,24 @@ class Ui_Dialog(object):
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
         Dialog.setWindowTitle(_translate("Dialog", "Dialog"))
-        self.label_7.setText(_translate("Dialog", "<html><head/><body><p><span style=\" font-size:12pt; color:#ffffff;\">本软件 </span><span style=\" font-size:12pt; font-style:italic; color:#ffffff;\">Squirrel Video Frame Interpolation</span></p><p><span style=\" color:#ffffff;\">是基于</span><span style=\" font-weight:600; color:#ffffff;\">RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation</span><span style=\" color:#ffffff;\"> AI补帧算法的可视化图形界面集成.</span></p><p><br/></p><p><span style=\" font-weight:600; color:#ffffff;\">RIFE算法作者</span><span style=\" color:#ffffff;\"> Zhewei Huang, Tianyuan Zhang, Wen Heng, Boxin Shi, Shuchang Zhou </span></p><p><span style=\" color:#ffffff;\">https://github.com/hzwer/arXiv2020-RIFE</span></p><p><span style=\" font-weight:600; color:#ffffff;\">SVFI作者</span><span style=\" color:#ffffff;\"> YiWeiHuang-stack, Justin62628, 穆氏, ABlyh-LEO, NULL204</span></p><p><span style=\" color:#ffffff;\">https://github.com/YiWeiHuang-stack/Squirrel-RIFE</span></p><p><span style=\" color:#ffffff;\">https://github.com/Justin62628/RIFE_GUI</span></p><p><span style=\" text-decoration: underline; color:#ffffff;\">其中RIFE GUI已与SVFI版本合并</span></p><p><span style=\" color:#ffffff;\">市面上的SVFI 1.x, RIFE GUI 6.2.x均为旧版本</span></p></body></html>"))
+        self.label_7.setText(_translate("Dialog", "<html><head/><body><p><span style=\"\n"
+                                                  "                                            font-size:12pt; color:#ffffff;\">本软件 </span><span style=\"\n"
+                                                  "                                            font-size:12pt; font-style:italic; color:#ffffff;\">Squirrel Video\n"
+                                                  "                                            Frame Interpolation</span></p><p><span style=\"\n"
+                                                  "                                            color:#ffffff;\">是基于</span><span style=\"\n"
+                                                  "                                            font-weight:600; color:#ffffff;\">RIFE: Real-Time Intermediate Flow\n"
+                                                  "                                            Estimation for Video Frame Interpolation</span><span style=\"\n"
+                                                  "                                            color:#ffffff;\"> AI补帧算法的可视化图形界面集成.</span></p><p><br/></p><p><span\n"
+                                                  "                                            style=\" font-weight:600; color:#ffffff;\">RIFE算法作者</span><span\n"
+                                                  "                                            style=\" color:#ffffff;\"> Zhewei Huang, Tianyuan Zhang, Wen\n"
+                                                  "                                            Heng, Boxin Shi, Shuchang Zhou </span></p><p><span\n"
+                                                  "                                            style=\" color:#ffffff;\">https://github.com/hzwer/arXiv2020-RIFE</span></p><p><span\n"
+                                                  "                                            style=\" font-weight:600; color:#ffffff;\">SVFI作者</span><span\n"
+                                                  "                                            style=\" color:#ffffff;\"> YiWeiHuang-stack, Justin62628, 穆氏,\n"
+                                                  "                                            ABlyh-LEO, NULL204</span></p><p><span style=\"\n"
+                                                  "                                            color:#ffffff;\">https://github.com/YiWeiHuang-stack/Squirrel-RIFE</span></p><p><span\n"
+                                                  "                                            style=\" color:#ffffff;\">https://github.com/Justin62628/RIFE_GUI</span></p><p><span\n"
+                                                  "                                            style=\" text-decoration: underline; color:#ffffff;\">其中RIFE\n"
+                                                  "                                            GUI已与SVFI版本合并</span></p><p><span style=\"\n"
+                                                  "                                            color:#ffffff;\">市面上的SVFI 1.x, RIFE GUI 6.2.x均为旧版本</span></p></body></html>\n"
+                                                  "                                        "))

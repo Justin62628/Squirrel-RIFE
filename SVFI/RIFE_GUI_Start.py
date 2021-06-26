@@ -1,8 +1,9 @@
 import sys
-import QCandyUi
 import traceback
-from PyQt5.QtWidgets import *
+
+import QCandyUi
 from PyQt5.QtCore import *
+from PyQt5.QtWidgets import *
 
 """High Resolution Support"""
 if hasattr(Qt, 'AA_EnableHighDpiScaling'):
@@ -18,13 +19,14 @@ except ImportError as e:
     print("Not Find RIFE GUI Backend, please contact developers for support")
     input("Press Any Key to Quit")
     exit()
-
+SVFI_version = "3.2 Professional"
+# SVFI_version = "3.2 Platinum"
 app = QApplication(sys.argv)
 app_backend_module = RIFE_GUI_Backend
-app_backend = app_backend_module.RIFE_GUI_BACKEND()
+app_backend = app_backend_module.RIFE_GUI_BACKEND(free=False, version=SVFI_version)
 try:
     form = QCandyUi.CandyWindow.createWindow(app_backend, theme="blueDeep", ico_path="svfi.png",
-                                             title="Squirrel Video Frame Interpolation 3.1.1 alpha")
+                                             title=f"Squirrel Video Frame Interpolation {SVFI_version}")
     form.show()
     app.exec_()
     """Save Settings"""

@@ -1,108 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>Dialog</class>
- <widget class="QDialog" name="Dialog">
-  <property name="geometry">
-   <rect>
-    <x>0</x>
-    <y>0</y>
-    <width>620</width>
-    <height>541</height>
-   </rect>
-  </property>
-  <property name="windowTitle">
-   <string>Dialog</string>
-  </property>
-  <layout class="QGridLayout" name="gridLayout">
-   <item row="0" column="0">
-    <widget class="QScrollArea" name="scrollArea">
-     <property name="sizePolicy">
-      <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
-       <horstretch>0</horstretch>
-       <verstretch>0</verstretch>
-      </sizepolicy>
-     </property>
-     <property name="widgetResizable">
-      <bool>true</bool>
-     </property>
-     <widget class="QWidget" name="scrollAreaWidgetContents">
-      <property name="geometry">
-       <rect>
-        <x>0</x>
-        <y>0</y>
-        <width>600</width>
-        <height>492</height>
-       </rect>
-      </property>
-      <layout class="QVBoxLayout" name="verticalLayout_3">
-       <item>
-        <widget class="QLabel" name="label_7">
-         <property name="sizePolicy">
-          <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
-           <horstretch>0</horstretch>
-           <verstretch>0</verstretch>
-          </sizepolicy>
-         </property>
-         <property name="text">
-          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; color:#ffffff;&quot;&gt;本软件 &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-style:italic; color:#ffffff;&quot;&gt;Squirrel Video Frame Interpolation&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;是基于&lt;/span&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation&lt;/span&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt; AI补帧算法的可视化图形界面集成.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;RIFE算法作者&lt;/span&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt; Zhewei Huang, Tianyuan Zhang, Wen Heng, Boxin Shi, Shuchang Zhou &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;https://github.com/hzwer/arXiv2020-RIFE&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;SVFI作者&lt;/span&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt; YiWeiHuang-stack, Justin62628, 穆氏, ABlyh-LEO, NULL204&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;https://github.com/YiWeiHuang-stack/Squirrel-RIFE&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;https://github.com/Justin62628/RIFE_GUI&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; text-decoration: underline; color:#ffffff;&quot;&gt;其中RIFE GUI已与SVFI版本合并&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;市面上的SVFI 1.x, RIFE GUI 6.2.x均为旧版本&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-         </property>
-         <property name="scaledContents">
-          <bool>true</bool>
-         </property>
-         <property name="wordWrap">
-          <bool>true</bool>
-         </property>
-        </widget>
-       </item>
-      </layout>
-     </widget>
+    <class>Dialog</class>
+    <widget class="QDialog" name="Dialog">
+        <property name="geometry">
+            <rect>
+                <x>0</x>
+                <y>0</y>
+                <width>620</width>
+                <height>541</height>
+            </rect>
+        </property>
+        <property name="windowTitle">
+            <string>Dialog</string>
+        </property>
+        <layout class="QGridLayout" name="gridLayout">
+            <item row="0" column="0">
+                <widget class="QScrollArea" name="scrollArea">
+                    <property name="sizePolicy">
+                        <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
+                            <horstretch>0</horstretch>
+                            <verstretch>0</verstretch>
+                        </sizepolicy>
+                    </property>
+                    <property name="widgetResizable">
+                        <bool>true</bool>
+                    </property>
+                    <widget class="QWidget" name="scrollAreaWidgetContents">
+                        <property name="geometry">
+                            <rect>
+                                <x>0</x>
+                                <y>0</y>
+                                <width>600</width>
+                                <height>492</height>
+                            </rect>
+                        </property>
+                        <layout class="QVBoxLayout" name="verticalLayout_3">
+                            <item>
+                                <widget class="QLabel" name="label_7">
+                                    <property name="sizePolicy">
+                                        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+                                            <horstretch>0</horstretch>
+                                            <verstretch>0</verstretch>
+                                        </sizepolicy>
+                                    </property>
+                                    <property name="text">
+                                        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;
+                                            font-size:12pt; color:#ffffff;&quot;&gt;本软件 &lt;/span&gt;&lt;span style=&quot;
+                                            font-size:12pt; font-style:italic; color:#ffffff;&quot;&gt;Squirrel Video
+                                            Frame Interpolation&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;
+                                            color:#ffffff;&quot;&gt;是基于&lt;/span&gt;&lt;span style=&quot;
+                                            font-weight:600; color:#ffffff;&quot;&gt;RIFE: Real-Time Intermediate Flow
+                                            Estimation for Video Frame Interpolation&lt;/span&gt;&lt;span style=&quot;
+                                            color:#ffffff;&quot;&gt; AI补帧算法的可视化图形界面集成.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span
+                                            style=&quot; font-weight:600; color:#ffffff;&quot;&gt;RIFE算法作者&lt;/span&gt;&lt;span
+                                            style=&quot; color:#ffffff;&quot;&gt; Zhewei Huang, Tianyuan Zhang, Wen
+                                            Heng, Boxin Shi, Shuchang Zhou &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span
+                                            style=&quot; color:#ffffff;&quot;&gt;https://github.com/hzwer/arXiv2020-RIFE&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span
+                                            style=&quot; font-weight:600; color:#ffffff;&quot;&gt;SVFI作者&lt;/span&gt;&lt;span
+                                            style=&quot; color:#ffffff;&quot;&gt; YiWeiHuang-stack, Justin62628, 穆氏,
+                                            ABlyh-LEO, NULL204&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;
+                                            color:#ffffff;&quot;&gt;https://github.com/YiWeiHuang-stack/Squirrel-RIFE&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span
+                                            style=&quot; color:#ffffff;&quot;&gt;https://github.com/Justin62628/RIFE_GUI&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span
+                                            style=&quot; text-decoration: underline; color:#ffffff;&quot;&gt;其中RIFE
+                                            GUI已与SVFI版本合并&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;
+                                            color:#ffffff;&quot;&gt;市面上的SVFI 1.x, RIFE GUI 6.2.x均为旧版本&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+                                        </string>
+                                    </property>
+                                    <property name="scaledContents">
+                                        <bool>true</bool>
+                                    </property>
+                                    <property name="wordWrap">
+                                        <bool>true</bool>
+                                    </property>
+                                </widget>
+                            </item>
+                        </layout>
+                    </widget>
+                </widget>
+            </item>
+            <item row="1" column="0">
+                <widget class="QDialogButtonBox" name="buttonBox">
+                    <property name="orientation">
+                        <enum>Qt::Horizontal</enum>
+                    </property>
+                    <property name="standardButtons">
+                        <set>QDialogButtonBox::Cancel|QDialogButtonBox::Ok</set>
+                    </property>
+                </widget>
+            </item>
+        </layout>
     </widget>
-   </item>
-   <item row="1" column="0">
-    <widget class="QDialogButtonBox" name="buttonBox">
-     <property name="orientation">
-      <enum>Qt::Horizontal</enum>
-     </property>
-     <property name="standardButtons">
-      <set>QDialogButtonBox::Cancel|QDialogButtonBox::Ok</set>
-     </property>
-    </widget>
-   </item>
-  </layout>
- </widget>
- <resources/>
- <connections>
-  <connection>
-   <sender>buttonBox</sender>
-   <signal>accepted()</signal>
-   <receiver>Dialog</receiver>
-   <slot>accept()</slot>
-   <hints>
-    <hint type="sourcelabel">
-     <x>248</x>
-     <y>254</y>
-    </hint>
-    <hint type="destinationlabel">
-     <x>157</x>
-     <y>274</y>
-    </hint>
-   </hints>
-  </connection>
-  <connection>
-   <sender>buttonBox</sender>
-   <signal>rejected()</signal>
-   <receiver>Dialog</receiver>
-   <slot>reject()</slot>
-   <hints>
-    <hint type="sourcelabel">
-     <x>316</x>
-     <y>260</y>
-    </hint>
-    <hint type="destinationlabel">
-     <x>286</x>
-     <y>274</y>
-    </hint>
-   </hints>
-  </connection>
- </connections>
+    <resources/>
+    <connections>
+        <connection>
+            <sender>buttonBox</sender>
+            <signal>accepted()</signal>
+            <receiver>Dialog</receiver>
+            <slot>accept()</slot>
+            <hints>
+                <hint type="sourcelabel">
+                    <x>248</x>
+                    <y>254</y>
+                </hint>
+                <hint type="destinationlabel">
+                    <x>157</x>
+                    <y>274</y>
+                </hint>
+            </hints>
+        </connection>
+        <connection>
+            <sender>buttonBox</sender>
+            <signal>rejected()</signal>
+            <receiver>Dialog</receiver>
+            <slot>reject()</slot>
+            <hints>
+                <hint type="sourcelabel">
+                    <x>316</x>
+                    <y>260</y>
+                </hint>
+                <hint type="destinationlabel">
+                    <x>286</x>
+                    <y>274</y>
+                </hint>
+            </hints>
+        </connection>
+    </connections>
 </ui>

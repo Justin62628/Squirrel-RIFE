@@ -1,108 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>Dialog</class>
- <widget class="QDialog" name="Dialog">
-  <property name="geometry">
-   <rect>
-    <x>0</x>
-    <y>0</y>
-    <width>620</width>
-    <height>541</height>
-   </rect>
-  </property>
-  <property name="windowTitle">
-   <string>Dialog</string>
-  </property>
-  <layout class="QGridLayout" name="gridLayout">
-   <item row="0" column="0">
-    <widget class="QScrollArea" name="scrollArea">
-     <property name="sizePolicy">
-      <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
-       <horstretch>0</horstretch>
-       <verstretch>0</verstretch>
-      </sizepolicy>
-     </property>
-     <property name="widgetResizable">
-      <bool>true</bool>
-     </property>
-     <widget class="QWidget" name="scrollAreaWidgetContents">
-      <property name="geometry">
-       <rect>
-        <x>0</x>
-        <y>0</y>
-        <width>600</width>
-        <height>492</height>
-       </rect>
-      </property>
-      <layout class="QVBoxLayout" name="verticalLayout_3">
-       <item>
-        <widget class="QLabel" name="label_7">
-         <property name="sizePolicy">
-          <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
-           <horstretch>0</horstretch>
-           <verstretch>0</verstretch>
-          </sizepolicy>
-         </property>
-         <property name="text">
-          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#ffffff;&quot;&gt;快速补帧流程：（鼠标悬浮在选项上可见帮助信息）&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;0. 请确保本软件在&lt;/span&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;纯英文、无特殊标点符号及空格的路径&lt;/span&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;下运行&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;1. 选择要补帧的文件。可以选择多个视频文件进行批量补帧，也可以选择包括图片序列的文件夹，后者需要手动填写输入帧率。如果输入的文件有误，&lt;/span&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;需要重新拖动文件或者点击下方的输入按钮&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;2. 确认&lt;/span&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;输入和输出&lt;/span&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;帧率&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;3. 按“&lt;/span&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;一键补帧&lt;/span&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;”完成补帧操作，也可以在&lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#ffffff;&quot;&gt;高级设置&lt;/span&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;界面设置相关参数，并在输出界面点击&lt;/span&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;开始补帧&lt;/span&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;按钮补帧（A卡补帧需要在高级设置手动设置参数）&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;4. 在&lt;/span&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;工具箱&lt;/span&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;一页进行&lt;/span&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;gif制作&lt;/span&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;、&lt;/span&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;音视频合并&lt;/span&gt;&lt;span style=&quot; color:#ffffff;&quot;&gt;及&lt;/span&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;已有区块合并（视频合并失败使用）&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; font-style:italic; color:#ffffff;&quot;&gt;软件最终解释权归SVFI开发团队所有&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-         </property>
-         <property name="scaledContents">
-          <bool>true</bool>
-         </property>
-         <property name="wordWrap">
-          <bool>true</bool>
-         </property>
-        </widget>
-       </item>
-      </layout>
-     </widget>
+    <class>Dialog</class>
+    <widget class="QDialog" name="Dialog">
+        <property name="geometry">
+            <rect>
+                <x>0</x>
+                <y>0</y>
+                <width>620</width>
+                <height>541</height>
+            </rect>
+        </property>
+        <property name="windowTitle">
+            <string>Dialog</string>
+        </property>
+        <layout class="QGridLayout" name="gridLayout">
+            <item row="0" column="0">
+                <widget class="QScrollArea" name="scrollArea">
+                    <property name="sizePolicy">
+                        <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
+                            <horstretch>0</horstretch>
+                            <verstretch>0</verstretch>
+                        </sizepolicy>
+                    </property>
+                    <property name="widgetResizable">
+                        <bool>true</bool>
+                    </property>
+                    <widget class="QWidget" name="scrollAreaWidgetContents">
+                        <property name="geometry">
+                            <rect>
+                                <x>0</x>
+                                <y>0</y>
+                                <width>600</width>
+                                <height>492</height>
+                            </rect>
+                        </property>
+                        <layout class="QVBoxLayout" name="verticalLayout_3">
+                            <item>
+                                <widget class="QLabel" name="label_7">
+                                    <property name="sizePolicy">
+                                        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+                                            <horstretch>0</horstretch>
+                                            <verstretch>0</verstretch>
+                                        </sizepolicy>
+                                    </property>
+                                    <property name="text">
+                                        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;
+                                            font-size:12pt; font-weight:600; color:#ffffff;&quot;&gt;快速补帧流程：（鼠标悬浮在选项上可见帮助信息）&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span
+                                            style=&quot; color:#ffffff;&quot;&gt;0. 请确保本软件在&lt;/span&gt;&lt;span style=&quot;
+                                            font-weight:600; color:#ffffff;&quot;&gt;纯英文、无特殊标点符号及空格的路径&lt;/span&gt;&lt;span
+                                            style=&quot; color:#ffffff;&quot;&gt;下运行&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span
+                                            style=&quot; color:#ffffff;&quot;&gt;1.
+                                            选择要补帧的文件。可以选择多个视频文件进行批量补帧，也可以选择包括图片序列的文件夹，后者需要手动填写输入帧率。如果输入的文件有误，&lt;/span&gt;&lt;span
+                                            style=&quot; font-weight:600; color:#ffffff;&quot;&gt;需要重新拖动文件或者点击下方的输入按钮&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span
+                                            style=&quot; color:#ffffff;&quot;&gt;2. 确认&lt;/span&gt;&lt;span style=&quot;
+                                            font-weight:600; color:#ffffff;&quot;&gt;输入和输出&lt;/span&gt;&lt;span style=&quot;
+                                            color:#ffffff;&quot;&gt;帧率&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;
+                                            color:#ffffff;&quot;&gt;3. 按“&lt;/span&gt;&lt;span style=&quot;
+                                            font-weight:600; color:#ffffff;&quot;&gt;一键补帧&lt;/span&gt;&lt;span style=&quot;
+                                            color:#ffffff;&quot;&gt;”完成补帧操作，也可以在&lt;/span&gt;&lt;span style=&quot;
+                                            font-size:12pt; font-weight:600; color:#ffffff;&quot;&gt;高级设置&lt;/span&gt;&lt;span
+                                            style=&quot; color:#ffffff;&quot;&gt;界面设置相关参数，并在输出界面点击&lt;/span&gt;&lt;span
+                                            style=&quot; font-weight:600; color:#ffffff;&quot;&gt;开始补帧&lt;/span&gt;&lt;span
+                                            style=&quot; color:#ffffff;&quot;&gt;按钮补帧（A卡补帧需要在高级设置手动设置参数）&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span
+                                            style=&quot; color:#ffffff;&quot;&gt;4. 在&lt;/span&gt;&lt;span style=&quot;
+                                            font-weight:600; color:#ffffff;&quot;&gt;工具箱&lt;/span&gt;&lt;span style=&quot;
+                                            color:#ffffff;&quot;&gt;一页进行&lt;/span&gt;&lt;span style=&quot;
+                                            font-weight:600; color:#ffffff;&quot;&gt;gif制作&lt;/span&gt;&lt;span style=&quot;
+                                            color:#ffffff;&quot;&gt;、&lt;/span&gt;&lt;span style=&quot; font-weight:600;
+                                            color:#ffffff;&quot;&gt;音视频合并&lt;/span&gt;&lt;span style=&quot;
+                                            color:#ffffff;&quot;&gt;及&lt;/span&gt;&lt;span style=&quot; font-weight:600;
+                                            color:#ffffff;&quot;&gt;已有区块合并（视频合并失败使用）&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span
+                                            style=&quot; font-weight:600; font-style:italic; color:#ffffff;&quot;&gt;软件最终解释权归SVFI开发团队所有&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+                                        </string>
+                                    </property>
+                                    <property name="scaledContents">
+                                        <bool>true</bool>
+                                    </property>
+                                    <property name="wordWrap">
+                                        <bool>true</bool>
+                                    </property>
+                                </widget>
+                            </item>
+                        </layout>
+                    </widget>
+                </widget>
+            </item>
+            <item row="1" column="0">
+                <widget class="QDialogButtonBox" name="buttonBox">
+                    <property name="orientation">
+                        <enum>Qt::Horizontal</enum>
+                    </property>
+                    <property name="standardButtons">
+                        <set>QDialogButtonBox::Cancel|QDialogButtonBox::Ok</set>
+                    </property>
+                </widget>
+            </item>
+        </layout>
     </widget>
-   </item>
-   <item row="1" column="0">
-    <widget class="QDialogButtonBox" name="buttonBox">
-     <property name="orientation">
-      <enum>Qt::Horizontal</enum>
-     </property>
-     <property name="standardButtons">
-      <set>QDialogButtonBox::Cancel|QDialogButtonBox::Ok</set>
-     </property>
-    </widget>
-   </item>
-  </layout>
- </widget>
- <resources/>
- <connections>
-  <connection>
-   <sender>buttonBox</sender>
-   <signal>accepted()</signal>
-   <receiver>Dialog</receiver>
-   <slot>accept()</slot>
-   <hints>
-    <hint type="sourcelabel">
-     <x>248</x>
-     <y>254</y>
-    </hint>
-    <hint type="destinationlabel">
-     <x>157</x>
-     <y>274</y>
-    </hint>
-   </hints>
-  </connection>
-  <connection>
-   <sender>buttonBox</sender>
-   <signal>rejected()</signal>
-   <receiver>Dialog</receiver>
-   <slot>reject()</slot>
-   <hints>
-    <hint type="sourcelabel">
-     <x>316</x>
-     <y>260</y>
-    </hint>
-    <hint type="destinationlabel">
-     <x>286</x>
-     <y>274</y>
-    </hint>
-   </hints>
-  </connection>
- </connections>
+    <resources/>
+    <connections>
+        <connection>
+            <sender>buttonBox</sender>
+            <signal>accepted()</signal>
+            <receiver>Dialog</receiver>
+            <slot>accept()</slot>
+            <hints>
+                <hint type="sourcelabel">
+                    <x>248</x>
+                    <y>254</y>
+                </hint>
+                <hint type="destinationlabel">
+                    <x>157</x>
+                    <y>274</y>
+                </hint>
+            </hints>
+        </connection>
+        <connection>
+            <sender>buttonBox</sender>
+            <signal>rejected()</signal>
+            <receiver>Dialog</receiver>
+            <slot>reject()</slot>
+            <hints>
+                <hint type="sourcelabel">
+                    <x>316</x>
+                    <y>260</y>
+                </hint>
+                <hint type="destinationlabel">
+                    <x>286</x>
+                    <y>274</y>
+                </hint>
+            </hints>
+        </connection>
+    </connections>
 </ui>
