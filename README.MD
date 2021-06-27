@@ -1,4 +1,4 @@
-<img width="18%" src="https://images.gitee.com/uploads/images/2021/0327/232901_6a116ba0_8684016.png" alt="logo" align="right">
+<img width="18%" src="http://i0.hdslb.com/bfs/album/2e8a3fc8ac5a610e9f1f20da858969ae8348edc1.png" alt="logo" align="right">
 
 # Squirrel-RIFE Video Frame Interpolation
  - 𝗕𝗬 𝗦𝗾𝘂𝗶𝗿𝗿𝗲𝗹 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗧𝗲𝗮𝗺
