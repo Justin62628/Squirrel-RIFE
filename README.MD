@@ -20,7 +20,7 @@
 - Windows 7 or above
  
 - NVIDIA 显卡需要 GeForce Experience 所安装的驱动版本大于等于460.89
-- NVIDIA graphics processing unit with driver version of 460.89 or greater installed by GeForce Experience
+- NVIDIA GPU with driver version of 460.89 or greater installed by GeForce Experience
 
 - 至少 2GB 以上显存以及 4GB 左右的空余内存 
 - At least 2GB of video memory and around 4GB of free memory
@@ -53,7 +53,7 @@ https://www.bilibili.com/video/BV1uo4y1d7Cr/
 
 ### Squirrel-RIFE:
 
-Github: [2.3.beta](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/releases/tag/v2.3.beta)
+Github: [3.2 Community](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/releases/tag/v3.2)
 
 百度网盘:[2.3.beta 提取码mlbf](https://pan.baidu.com/s/16rmr5wX6O3_ncKblG13mzw)
 
