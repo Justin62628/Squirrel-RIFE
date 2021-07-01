@@ -61,6 +61,16 @@ Github: [3.2 Community](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/releas
 
 点击加入群聊[【SVFI交流群】](https://jq.qq.com/?_wv=1027&k=BKQQ75b9)
 
+## 参考
+
+- [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)
+- [ncnn](https://github.com/Tencent/ncnn)
+- [ncnn-rife](https://github.com/nihui/rife-ncnn-vulkan)
+- [python-ncnn-rife](https://github.com/ArchieMeng/rife-ncnn-vulkan-python)
+- [RIFEInterpolation](https://github.com/YiWeiHuang-stack/RIFEInterpolation)  
+- [RIFE_GUI](https://github.com/Justin62628/RIFE_GUI)
+- [AVFDU](https://github.com/YiWeiHuang-stack/AVFDU)
+
 ## 🚫 SVFI黑名单 截至至2021年6月8号
 
 ### 1. QQ号 𝟭𝟵𝟯𝟵𝟵𝟯𝟮𝟯𝟭𝟬 
@@ -78,12 +88,3 @@ Github: [3.2 Community](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/releas
 ### 4. 微信号 𝗰𝗰_𝟮𝟭𝟵_𝗚𝗚 （昵称：ΕulerFans） 和 微信号 𝗰𝗹𝗼𝘂𝗱𝗰𝗼𝘄𝗰𝗼𝘄 （昵称：佐茗.）
 - 侮辱开发组劳动成果 
 - 人身攻击 所以这里备注上姓名：曹博为，曹恩硕
-## 参考
-
-- [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)
-- [ncnn](https://github.com/Tencent/ncnn)
-- [ncnn-rife](https://github.com/nihui/rife-ncnn-vulkan)
-- [python-ncnn-rife](https://github.com/ArchieMeng/rife-ncnn-vulkan-python)
-- [RIFEInterpolation](https://github.com/YiWeiHuang-stack/RIFEInterpolation)  
-- [RIFE_GUI](https://github.com/Justin62628/RIFE_GUI)
-- [AVFDU](https://github.com/YiWeiHuang-stack/AVFDU)
