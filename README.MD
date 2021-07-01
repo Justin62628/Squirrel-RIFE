@@ -86,3 +86,4 @@ Github: [3.2 Community](https://github.com/YiWeiHuang-stack/Squirrel-RIFE/releas
 - [python-ncnn-rife](https://github.com/ArchieMeng/rife-ncnn-vulkan-python)
 - [RIFEInterpolation](https://github.com/YiWeiHuang-stack/RIFEInterpolation)  
 - [RIFE_GUI](https://github.com/Justin62628/RIFE_GUI)
+- [AVFDU](https://github.com/YiWeiHuang-stack/AVFDU)
