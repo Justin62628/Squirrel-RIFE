@@ -1,4 +1,4 @@
-<img width="18%" src="http://i0.hdslb.com/bfs/album/2e8a3fc8ac5a610e9f1f20da858969ae8348edc1.png" alt="logo" align="right">
+<img width="18%" src="https://images.gitee.com/uploads/images/2021/1001/175044_95aa1d90_8684016.jpeg" alt="logo" align="right">
 
 # Squirrel-RIFE Video Frame Interpolation
 - 基于RIFE算法的中文补帧软件
@@ -45,7 +45,7 @@
 https://www.bilibili.com/video/BV1uo4y1d7Cr/ 
 
 ## 🌐 软件界面 Software Interface
-![Demo](https://images.gitee.com/uploads/images/2021/0523/101032_abced983_8684016.png)
+![Demo](https://images.gitee.com/uploads/images/2021/1001/175122_510ac4e7_8684016.jpeg)
 
 ## 📦️ 下载地址 Download
 
