@@ -10,7 +10,7 @@
 
 - 效果更好，显存占用极小，是DAIN速度的二十倍 
 - More efficient, less memory used, and 20 times faster than DAIN
-- 超高精度转场识别，可在大量视频中达到95%以上的精确度，不破坏丝滑 
+- 超高精度转场识别，可在多数视频中达到95%以上的精确度，不破坏丝滑效果
 - Ultra high precision of transition recognition, reaching 95%+ accuracy in most videos without affecting smoothness
 - 包含抽帧处理，可去除动漫卡顿感 
 - Deduplication removes animation clipping
@@ -22,7 +22,7 @@
 - NVIDIA 显卡需要 GeForce Experience 所安装的驱动版本大于等于460.89
 - NVIDIA GPU(driver > 460.89)
 
-- 至少 2GB 以上显存, 4GB 左右的空余内存以及4GB+的磁盘剩余空间 
+- 2GB 以上显存, 4GB 左右的空余运行内存以及4GB+的磁盘剩余空间 
 - 2GB+ of video card memory, 4GB+ of DDR3 memory and 4GB+ of free disk space
 
 
@@ -50,11 +50,11 @@ https://www.bilibili.com/video/BV1uo4y1d7Cr/
 ## 📦️ 下载地址 Download
 
 SVFI 现已在 [STEAM](https://store.steampowered.com/app/1692080/SVFI/) 上线
-*Click on the [link](https://store.steampowered.com/app/1692080/SVFI/) for more information*
+*Click [this](https://store.steampowered.com/app/1692080/SVFI/) for more information*
 
 ## ☑️问题反馈 Feedback
 
-点击加入群聊[【SVFI交流群】](https://jq.qq.com/?_wv=1027&k=BKQQ75b9)
+点击加入QQ群聊[【SVFI售后群】](https://jq.qq.com/?_wv=1027&k=VkFJfMT8)
 
 ## 🤝  参考 Reference & Acknowledgement
 - Video Frame Interpolation Algorithm: [RIFE](https://github.com/hzwer/arXiv2020-RIFE)
@@ -64,6 +64,10 @@ SVFI 现已在 [STEAM](https://store.steampowered.com/app/1692080/SVFI/) 上线
 - Steamworks Interface: [SteamworksPy](https://github.com/philippj/SteamworksPy)
 - Encode Supports: [FFmpeg](https://github.com/FFmpeg/FFmpeg), [QSVEnc](https://github.com/rigaya/QSVEnc), [NVEnc](https://github.com/rigaya/NVEnc), [dovi_tool](https://github.com/quietvoid/dovi_tool), [dlb_mp4base](https://github.com/DolbyLaboratories/dlb_mp4base), [hdr10plus_parser](https://github.com/quietvoid/hdr10plus_parser)
 - Super Resolution Algorithm: [waifu2x](https://github.com/nagadomi/waifu2x), [RealSR](https://github.com/jixiaozhong/RealSR), [RealESR](https://github.com/xinntao/Real-ESRGAN)
+
+## 👓 一些注意事项
+- 根据Steam用户使用条款(EULA)，SVFI发行版输出内容不可用于商业用途
+- According to EULA, SVFI's output is not allowed for commercial use.
 
 ## 🚫 SVFI黑名单 截至2021年7月8号
 
