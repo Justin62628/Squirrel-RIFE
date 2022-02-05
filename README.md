@@ -30,15 +30,15 @@
 
 [【𝟖𝐊/𝟔𝟎𝐅𝐏𝐒】《原神》剧情CM短片 8K60帧 SVFI补帧超分 全站最高画质](https://www.bilibili.com/video/BV1FS4y1C7RD)
 
-[【100 FPS】【泠鸢】大喜【SVFI 更先进的补帧技术】](https://www.bilibili.com/video/BV1up4y1h7Jr)
+[【𝟖𝐊/𝟔𝟎𝐅𝐏𝐒】赛马娘 Pretty Derby 第二季 NCOP 8K60帧 全站最高画质](https://www.bilibili.com/video/BV1QY411b7e4)
 
-[【𝟒𝐊/𝟔𝟎𝐅𝐏𝐒】君主·埃尔梅罗二世事件簿 魔眼收集列车 Grace note NCOP 全站最高画质 4K](https://www.bilibili.com/video/BV1hA41137LM)
+[【𝟖𝐊/𝟔𝟎𝐅𝐏𝐒】Re：从零开始的异世界生活 第二季后半 NCED Believe in you 全站最高画质 8K60帧](https://www.bilibili.com/video/BV1kF411p7FB)
 
-[【𝟒𝐊/𝟔𝟎𝐅𝐏𝐒】《明日方舟》游戏概念宣传PV-3 全站最高画质 4K SVFI3.1补帧测试](https://www.bilibili.com/video/BV17K4y1R7h4)
+[【𝟖𝐊/𝟔𝟎𝐅𝐏𝐒】进击的巨人 最终季 Part2 NCOP「地鸣」SVFI补帧超分 8K60帧 全站最高画质](https://www.bilibili.com/video/BV1km4y1D7rX)
 
-[【𝟒𝐊/𝟔𝟎𝐅𝐏𝐒】Fate/Apocrypha NCOP《Ash》LiSA 全站最高画质 4K](https://www.bilibili.com/video/BV1sh411e76T)
+[【𝟖𝐊/𝟔𝟎𝐅𝐏𝐒】进击的巨人 最终季 Part2 NCED「恶魔之子」SVFI补帧超分 8K60帧 全站最高画质](https://www.bilibili.com/video/BV1qr4y1v7iz)
 
-[【𝟒𝐊/𝟏𝟐𝟎𝐅𝐏𝐒】「明日方舟」阿米娅升变动画——该用什么回敬你的不义 4K 全站最高画质](https://www.bilibili.com/video/BV1Gi4y1N7FG)
+[【𝟖𝐊/𝟔𝟎𝐅𝐏𝐒】「明日方舟」阿米娅升变动画——该用什么回敬你的不义 8K60帧 全站最高画质](https://www.bilibili.com/video/BV1Gi4y1N7FG)
 
 ## 📜 使用教程 Tutorial
 
