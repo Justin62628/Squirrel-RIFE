@@ -28,7 +28,7 @@
 
 ## 🌎 补帧效果演示 Demonstration on BiliBili
 
-[【𝟒𝐊/𝟔𝟎𝐅𝐏𝐒】Fate/Grand Order 绝对魔兽战线 Prover-milet 全站最高画质 4K](https://www.bilibili.com/video/BV1Fv41157Zy)
+[【𝟖𝐊/𝟔𝟎𝐅𝐏𝐒】《原神》剧情CM短片 8K60帧 SVFI补帧超分 全站最高画质](https://www.bilibili.com/video/BV1FS4y1C7RD)
 
 [【100 FPS】【泠鸢】大喜【SVFI 更先进的补帧技术】](https://www.bilibili.com/video/BV1up4y1h7Jr)
 
