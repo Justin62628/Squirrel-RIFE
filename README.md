@@ -42,7 +42,7 @@
 
 ## 📜 使用教程 Tutorial
 
-https://www.bilibili.com/video/BV1uo4y1d7Cr/ 
+[4K?60帧？8K?你想要的这个软件都有](https://www.bilibili.com/video/BV1jL411c7Vc)
 
 ## 🌐 软件界面 Software Interface
 ![Demo](https://images.gitee.com/uploads/images/2021/1001/175122_510ac4e7_8684016.jpeg)
