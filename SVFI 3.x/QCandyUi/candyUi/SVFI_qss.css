@@ -1,0 +1,660 @@
+QWidget,
+QWidget:window,
+QStackedWidget,
+QPushButton,
+QRadioButton,
+QCheckBox,
+QGroupBox,
+QStatusBar,
+QToolButton,
+QComboBox,
+QDialog,
+QTabBar,
+QScrollBar,
+QScrollArea {
+    font-family: 'Segoe UI';
+    background: #131820;
+    /*font color*/
+}
+
+QObject {
+    font-family: 微软雅黑;
+    color: #FFFFFF;
+    font-size: 14px
+}
+
+QLabel {
+    background: transparent
+}
+
+T {
+    fontLight: #88b5f1;
+    fontDark: #999999;
+    normal: white;
+    light: #3D19FF;
+    deep: #131820;
+    disLight: #1D2839;
+    disDark: #313C4F;
+}
+
+QMenuBar {
+    spacing: 5px;
+    /* spacing between menu bar items */
+}
+
+QMenuBar::item {
+    background: transparent;
+}
+
+QMenuBar::item:selected {
+    background: #2DA0F7;
+}
+
+QMenuBar::item:pressed {
+    border: 2px solid #2DA0F7;
+    background: #2DA0F7;
+}
+
+QMenu {
+    background: transparent;
+    padding: 8px 1px;
+    /*设置菜单项文字上下和左右的内边距，效果就是菜单中的条目左右上下有了间隔*/
+    margin: 2px 2px;
+    /*设置菜单项的外边距*/
+    border-radius: 4px;
+}
+
+QMenu::item {
+    font-family: 'Microsoft Yahei';
+    background: transparent;
+    padding: 8px;
+}
+
+QMenu::item:selected {
+    background: #2DA0F7;
+    border-radius: 4px;
+}
+
+QPushButton {
+    padding: 3px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    background: #2DA0F7;
+    border: 2px solid #2DA0F7;
+}
+
+QPushButton:hover {
+    color: #2DA0F7;
+    background: #88b5f1;
+}
+
+QPushButton:pressed {
+    color: #FFFFFF;
+    background: #CCCCCC;
+}
+
+QPushButton:disabled {
+    color: #CCCCCC;
+    background: #999999;
+}
+
+QProgressBar {
+    text-align: center;
+    border: 2px solid #2DA0F7;
+    border-radius: 5px;
+    selection-color: #313C4F;
+    selection-background-color: #88b5f1;
+}
+
+QPushButton#InputButton {
+    background: #313C4F;
+    border: 2px solid #313C4F;
+}
+
+
+QPushButton#OutputButton {
+    background: #313C4F;
+    border: 2px solid #313C4F;
+}
+
+
+QPushButton#InputDirButton {
+    background: #313C4F;
+    border: 2px solid #313C4F;
+}
+
+
+QPushButton#OutputSettingsButton {
+    background: #313C4F;
+    border: 2px solid #313C4F;
+}
+
+
+QPushButton#RefreshStartInfo {
+    background: #313C4F;
+    border: 2px solid #313C4F;
+}
+
+QLabel#InputLabel {
+    font: bold;
+    font-size: 22px;
+    font-weight: normal;
+}
+
+
+QLabel#OutputLabel {
+    font: bold;
+    font-size: 22px;
+    font-weight: normal;
+}
+
+
+QLabel#AdvanceSettingsLabel {
+    font: bold;
+    font-size: 22px;
+    font-weight: normal;
+}
+
+QLabel#AMDSettingsLabel {
+    font: bold;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+QLabel#RenderSettingsLabel {
+    font: bold;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+QLabel#EncodeSettingsLabel {
+    font: bold;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+QPlainTextEdit {
+    border-style: none;
+    padding: 2px;
+    border-radius: 10px;
+    border: 2px solid #CCCCCC;
+    font-family: 微软雅黑;
+    selection-color: #313C4F;
+    selection-background-color: #2DA0F7
+}
+
+QPlainTextEdit:focus {
+    border: 2px solid #2DA0F7;
+}
+
+QGroupBox {
+    background: #1D2839;
+
+    /* 边框 */
+    border: 0px solid gray;
+
+    /* 倒角 */
+    border-radius: 5px;
+
+    /* 就像墙上挂着的两个相框,margin指的是相框与相框的距离
+                   padding指的是每个相框里照片与相框边框的距离
+                margin-top: 20px;
+                padding-top: 10px;*/
+    font-size: 18px;
+
+}
+
+/* 标题设置 */
+QGroupBox::title {
+    /* 位置 */
+    subcontrol-origin: margin;
+    subcontrol-position: top left;
+    /* 内边框,上下和左右 */
+    padding: 10px 15px;
+
+}
+
+QToolBox::tab {
+    background: #1D2839;
+    border-radius: 5px;
+    color: darkgray;
+}
+
+QToolBox::tab:selected {
+    /* italicize selected tabs */
+    font: bold;
+    color: white;
+}
+
+QTextBrowser {
+    border-style: none;
+    padding: 2px;
+    border-radius: 5px;
+    border: 2px solid #CCCCCC;
+    selection-color: #313C4F;
+    selection-background-color: #2DA0F7
+}
+
+QTextBrowser:focus {
+    border: 2px solid #2DA0F7;
+}
+
+QTextEdit {
+    padding: 2px;
+    border-radius: 5px;
+    border: 2px solid #CCCCCC;
+    selection-color: #313C4F;
+    selection-background-color: #2DA0F7
+}
+
+QTextEdit:focus {
+    border: 2px solid #2DA0F7;
+}
+
+QTextEdit:hover {
+    border: 2px solid #2DA0F7;
+}
+
+QListWidget,
+QScrollArea {
+    border-style: none;
+    padding: 2px;
+    border-radius: 5px;
+    border: 2px solid #313C4F;
+    selection-color: #313C4F;
+    selection-background-color: #2DA0F7;
+    background: transparent
+}
+
+QLineEdit {
+    border-style: none;
+    padding: 2px;
+    border-radius: 5px;
+    border: 2px solid #313C4F;
+    selection-color: #313C4F;
+    selection-background-color: #2DA0F7;
+}
+
+QLineEdit:focus {
+    border: 2px solid #2DA0F7;
+}
+
+QLineEdit:disabled {
+    color: #313C4F;
+}
+
+QComboBox {
+    background: #131820;
+    padding: 2px;
+    border-radius: 5px;
+    border: 2px solid #313C4F;
+}
+
+QComboBox:focus {
+    border: 2px solid #2DA0F7;
+}
+
+QComboBox:on {
+    border: 2px solid #2DA0F7;
+}
+
+QComboBox:disabled {
+    color: #313C4F;
+}
+
+QComboBox::drop-down {
+    border-style: solid;
+    border-radius: 5px;
+}
+
+QComboBox QAbstractItemView {
+    border: 2px solid #2DA0F7;
+    background: transparent;
+    selection-background-color: #2DA0F7;
+}
+
+QComboBox::down-arrow {
+    image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/down_arrow.png);
+    border: 20px;
+}
+
+QSpinBox {
+    background: transparent;
+    padding: 2px;
+    border-radius: 5px;
+    border: 2px solid #313C4F;
+}
+
+QSpinBox::up-arrow {
+    image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/up_arrow.png);
+    border: 20px;
+    background: transparent;
+}
+
+QSpinBox::down-arrow {
+    image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/down_arrow.png);
+    border: 20px;
+    background: transparent;
+}
+
+QSpinBox::hover {
+    border: 2px solid #2DA0F7;
+}
+
+QSpinBox::disabled {
+    color: #313C4F;
+    border-color: #313C4F
+}
+
+
+QDoubleSpinBox {
+    background: transparent;
+    padding: 2px;
+    border-radius: 5px;
+    border: 2px solid #313C4F;
+}
+
+QDoubleSpinBox::up-arrow {
+    image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/up_arrow.png);
+    border: 20px;
+    background: transparent;
+}
+
+QDoubleSpinBox::down-arrow {
+    image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/down_arrow.png);
+    border: 20px;
+    background: transparent;
+}
+
+QDoubleSpinBox::hover {
+    border: 2px solid #2DA0F7;
+}
+
+QDoubleSpinBox::disabled {
+    color: #313C4F;
+    border-color: #313C4F
+}
+
+
+QTimeEdit {
+    background: transparent;
+    padding: 2px;
+    border-radius: 5px;
+    border: 2px solid #313C4F;
+}
+
+QTimeEdit::up-arrow {
+    image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/up_arrow.png);
+    border: 20px;
+    background: transparent;
+}
+
+QTimeEdit::down-arrow {
+    image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/down_arrow.png);
+    border: 20px;
+    background: transparent;
+}
+
+QTimeEdit::hover {
+    border: 2px solid #2DA0F7;
+}
+
+QTimeEdit::disabled {
+    color: #313C4F;
+    border-color: #313C4F
+}
+
+QPushButton#AdvanceSettingsLabel {
+    icon: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/right_arrow.png)
+}
+
+QPushButton#SaveCurrentSettings {
+    icon: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/select.png)
+}
+
+QPushButton#LoadCurrentSettings {
+    icon: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/refresh.png)
+}
+
+QPushButton#AllInOne {
+    icon: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/dynamic-filling.png)
+}
+
+QPushButton#AutoSet {
+    icon: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/smile.png)
+}
+
+QRadioButton {
+    background: transparent;
+}
+
+QRadioButton::indicator:unchecked {
+    image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/radio_normal.png);
+}
+
+QRadioButton::indicator:checked {
+    image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/radio_down.png);
+}
+
+QRadioButton::indicator:checked:hover {
+    image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/radio_hoverCheck.png);
+}
+
+QRadioButton::disabled {
+    color: #313C4F
+}
+
+QCheckBox {
+    background: transparent;
+}
+
+QCheckBox::indicator:unchecked {
+    image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/checkbox_normal.png);
+}
+
+QCheckBox::indicator:checked {
+    image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/checkbox_down.png);
+}
+
+QCheckBox::indicator:unchecked:hover {
+    image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/checkbox_hoverUncheck.png);
+}
+
+QCheckBox::indicator:checked:hover {
+    image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/checkbox_hoverCheck.png);
+}
+
+QCheckBox::disabled,
+QCheckBox::indicator::disabled {
+    color: #313C4F
+}
+
+QTabWidget {
+    color: #FFFFFF;
+    background: #2DA0F7;
+    font-size: 40px;
+    width: 60px;
+}
+
+QTabBar::tab {
+    color: #FFFFFF;
+    background: #313C4F;
+    border-top-radius: 2px solid #313C4F;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    width: 60px;
+}
+
+QTabBar::tab:hover {
+    color: #2DA0F7;
+    background: #FFFFFF;
+    border: 4px;
+}
+
+QTabBar::tab:selected {
+    color: #2DA0F7;
+    background: #FFFFFF;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border: 2px solid #313C4F;
+    border-bottom: 1px;
+    border-bottom-color: #313C4F;
+}
+
+QTabBar::tab:! selected {
+    margin-top: 3px;
+    /* make non-selected tabs look smaller */
+}
+
+QTabWidget::pane {
+    /* The tab widget frame */
+    padding: 10px;
+    border: 2px solid #313C4F;
+    border-radius: 6px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+
+/* make use of negative margins for overlapping tabs */
+QTabBar::tab:selected {
+    /* expand/overlap to the left and right by 4px */
+    margin-left: -3px;
+    margin-right: -3px;
+}
+
+QTabBar::tab:only-one {
+    margin: 0;
+    /* if there is only one tab, we don't want overlapping margins */
+}
+
+QSlider::groove:horizontal,
+QSlider::add-page:horizontal {
+    height: 8px;
+    border-radius: 4px;
+    background: #2DA0F7;
+}
+
+QSlider::sub-page:horizontal {
+    height: 8px;
+    border-radius: 4px;
+    background: #FFFFFF;
+}
+
+QSlider::handle:horizontal {
+    width: 13px;
+    margin-top: -3px;
+    margin-bottom: -3px;
+    border-radius: 6px;
+    background: qradialgradient(spread:pad,
+    cx: 0.5,
+    cy: 0.5,
+    radius: 0.5,
+    fx: 0.5,
+    fy: 0.5,
+    stop: 0.6 #FFFFFF,
+    stop: 0.8 #2DA0F7);
+}
+
+QScrollBar::handle {
+    background: #313C4F;
+    border-radius: 5px;
+    min-height: 10px
+}
+
+QScrollBar::handle:pressed {
+    background: #999999
+}
+
+QScrollBar:horizontal {
+    height: 10px;
+    background: transparent;
+}
+
+QScrollBar:vertical {
+    width: 10px;
+    background: transparent;
+}
+
+
+Titlebar QLabel#Titlebar_titleLabel {
+    font-size: 13px;
+    margin-bottom: 0px;
+    color: #FFFFFF;
+}
+
+Titlebar QLabel#Titlebar_backgroundLabel {
+    background: #131820;
+}
+
+Titlebar QPushButton#Titlebar_minimizeButton {
+    background: transparent;
+    background-image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/minsize.png);
+    border: none
+}
+
+Titlebar QPushButton#Titlebar_minimizeButton:hover {
+    background: transparent;
+    background-image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/minsizehover.png)
+}
+
+Titlebar QPushButton#Titlebar_minimizeButton:pressed {
+    background: transparent;
+    background-image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/minsizepress.png)
+}
+
+Titlebar QPushButton#Titlebar_minimizeButton:disabled {
+    background: transparent;
+    background-image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/minsizepress.png)
+}
+
+Titlebar QPushButton#Titlebar_maximizeButton {
+    background: transparent;
+    background-image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/maxsize.png);
+    border: none
+}
+
+Titlebar QPushButton#Titlebar_maximizeButton:hover {
+    background: transparent;
+    background-image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/maxsizehover.png)
+}
+
+Titlebar QPushButton#Titlebar_maximizeButton:pressed {
+    background: transparent;
+    background-image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/maxsizepress.png)
+}
+
+Titlebar QPushButton#Titlebar_maximizeButton:disabled {
+    background: transparent;
+    background-image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/maxsizepress.png)
+}
+
+Titlebar QPushButton#Titlebar_closeButton {
+    background: transparent;
+    background-image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/close.png);
+    border: none
+}
+
+Titlebar QPushButton#Titlebar_closeButton:hover {
+    background: transparent;
+    background-image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/closehover.png)
+}
+
+Titlebar QPushButton#Titlebar_closeButton:pressed {
+    background: transparent;
+    background-image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/closepress.png)
+}
+
+Titlebar QPushButton#Titlebar_closeButton:disabled {
+    background: transparent;
+    background-image: url(D:/Program/Python37/lib/site-packages/QCandyUi/candyUi/blueDeep/closepress.png)
+}
+
+WindowWithTitleBar {
+    background: #FFFFFF;
+    border: 3px solid #131820;
+    border-radius: 2px
+}

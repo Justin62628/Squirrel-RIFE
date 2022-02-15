@@ -44,9 +44,6 @@
 
 [4K?60帧？8K?你想要的这个软件都有](https://www.bilibili.com/video/BV1jL411c7Vc)
 
-## 🌐 软件界面 Software Interface
-![Demo](https://images.gitee.com/uploads/images/2021/1001/175122_510ac4e7_8684016.jpeg)
-
 ## 📦️ 下载地址 Download
 
 SVFI 现已在 [STEAM](https://store.steampowered.com/app/1692080/SVFI/) 上线
@@ -54,7 +51,7 @@ SVFI 现已在 [STEAM](https://store.steampowered.com/app/1692080/SVFI/) 上线
 
 ## ☑️问题反馈 Feedback
 
-点击加入QQ群聊[【SVFI售后群】](https://jq.qq.com/?_wv=1027&k=VkFJfMT8)
+[Steam Discussion Forum](https://steamcommunity.com/app/1692080/discussions/1/)
 
 ## 🤝  参考 Reference & Acknowledgement
 - Video Frame Interpolation Algorithm: [RIFE](https://github.com/hzwer/arXiv2020-RIFE)
@@ -63,7 +60,8 @@ SVFI 现已在 [STEAM](https://store.steampowered.com/app/1692080/SVFI/) 上线
 - UI Design: [QCandyUi](https://github.com/shuoGG1239/QCandyUi)
 - Steamworks Interface: [SteamworksPy](https://github.com/philippj/SteamworksPy)
 - Encode Supports: [FFmpeg](https://github.com/FFmpeg/FFmpeg), [QSVEnc](https://github.com/rigaya/QSVEnc), [NVEnc](https://github.com/rigaya/NVEnc), [dovi_tool](https://github.com/quietvoid/dovi_tool), [dlb_mp4base](https://github.com/DolbyLaboratories/dlb_mp4base), [hdr10plus_parser](https://github.com/quietvoid/hdr10plus_parser)
-- Super Resolution Algorithm: [waifu2x](https://github.com/nagadomi/waifu2x), [RealSR](https://github.com/jixiaozhong/RealSR), [RealESR](https://github.com/xinntao/Real-ESRGAN)
+- Super Resolution Algorithm: [waifu2x](https://github.com/nagadomi/waifu2x), [RealESR](https://github.com/xinntao/Real-ESRGAN), [RealCUGAN](https://github.com/bilibili/ailab/blob/main/Real-CUGAN/LICENSE)
+- View More at `LICENSE` and `LICENSES_BUNDLE` FILE
 
 ## 👓 一些注意事项
 - 根据Steam用户使用条款(EULA)，SVFI发行版输出内容不可用于商业用途

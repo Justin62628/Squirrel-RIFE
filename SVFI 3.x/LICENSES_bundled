@@ -1,0 +1,84 @@
+The Squirrel Video Frame Interpolation application and
+the Squirrel Anime Enhance application
+hereinafter to be referred as SVFI and SAE, are
+licensed on the terms of GNU GENERAL PUBLIC LICENSE Version 3
+
+The package dependencies of SVFI and SAE,
+Copyright (c) their respective copyright owners
+Licensed on their respective license terms
+
+The "Squirrel" Logo
+Copyright (c) SDT
+
+This repository and source distributions bundle several libraries that are
+compatibly licensed.  We list these here.
+
+Name: RIFE
+Files: RIFE/*
+License: MIT
+  For details, see RIFE/LICENSE, https://github.com/hzwer/arXiv2020-RIFE/blob/main/LICENSE
+
+Name: RIFE ncnn Vulkan
+License: MIT
+  For details, see https://github.com/nihui/rife-ncnn-vulkan
+
+Name: rife-ncnn-vulkan-python
+License: MIT
+  For license text, see https://github.com/media2x/rife-ncnn-vulkan-python/blob/master/LICENSE
+
+Name: waifu2x-ncnn-vulkan-python
+License: MIT
+  For license text, see https://github.com/media2x/waifu2x-ncnn-vulkan-python/blob/master/LICENSE
+
+Name: waifu2x
+File: SuperResolution/WaifuCudaModule.py
+License: MIT
+  For license text, see https://github.com/nagadomi/waifu2x/blob/master/LICENSE
+
+Name: Real-ESRGAN
+File: SuperResolution/RealESRModule.py
+License: BSD 3-Clause
+  For license text, see https://github.com/xinntao/Real-ESRGAN/blob/master/LICENSE
+
+Name: Real-CUGAN
+File: SuperResolution/RealCUGANModule.py
+License: MIT
+  For license text, see https://github.com/bilibili/ailab/blob/main/Real-CUGAN/LICENSE
+
+Name: QCandyUi
+Files: QCandyUi/*
+License: MIT
+  For license text, see https://github.com/shuoGG1239/QCandyUi/blob/master/LICENSE
+
+Name: SteamworksPy
+License: MIT
+  For license text, see https://github.com/philippj/SteamworksPy/blob/master/LICENSE
+
+Name: scikit-video
+Files: skvideo/*
+License: MIT
+  For license text, see https://github.com/scikit-video/scikit-video/blob/master/LICENSE.txt
+
+Name: FFmpeg
+License: the GNU General Public License version 2 or later (GPL v2+)
+  For license text, see https://github.com/FFmpeg/FFmpeg/blob/master/LICENSE.md
+
+Name: QSVEnc
+License: MIT
+  For license text, see https://github.com/rigaya/QSVEnc/blob/master/license.txt
+
+Name: NVEnc
+License: MIT
+  For license text, see https://github.com/rigaya/NVEnc/blob/master/NVEnc_license.txt
+
+Name: dovi_tool
+License: MIT
+  For license text, see https://github.com/quietvoid/dovi_tool/blob/main/LICENSE
+
+Name: hdr10plus_tool
+License: MIT
+  For license text, see https://github.com/quietvoid/hdr10plus_tool/blob/master/LICENSE
+
+Name: dlb_mp4base
+License: BSD 3-Clause
+  For license text, see https://github.com/DolbyLaboratories/dlb_mp4base/blob/master/LICENSE

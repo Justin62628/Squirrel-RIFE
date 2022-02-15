@@ -1,0 +1,57 @@
+{
+    "theme":"",
+    "blueGreen": {
+        "fontLight": "#FFFFFF",
+        "fontDark": "#015F5F",
+        "normal": "#33CCCC",
+        "light": "#ECFEFE",
+        "deep": "#28AAAA",
+        "disLight": "#CCCCCC",
+        "disDark": "#999999"
+    },
+    "blueDeep": {
+        "fontLight": "#88b5f1",
+        "fontDark": "#999999",
+        "normal": "white",
+        "light": "#3D19FF",
+        "deep": "#131820",
+        "disLight": "#1D2839",
+        "disDark": "#313C4F"       
+    },
+    "blueDeep_B1": {
+        "fontLight": "#88b5f1",
+        "fontDark": "#999999",
+        "normal": "white",
+        "light": "#2DA0F7",
+        "deep": "#131820",
+        "disLight": "#1D2839",
+        "disDark": "#313C4F"
+    },
+	"blueDeep_B": {
+        "fontLight": "#FFFFFF",
+        "fontDark": "#192e4b",
+        "normal": "#4c73a8",
+        "light": "#88b5f1",
+        "deep": "#2e486c",
+        "disLight": "#CCCCCC",
+        "disDark": "#999999"       
+    },
+    "pink": {
+        "fontLight": "#FFFFFF",
+        "fontDark": "#bd158c",
+        "normal": "#f7a5f0",
+        "light": "#fbc2f6",
+        "deep": "#fbaaf4",
+        "disLight": "#CCCCCC",
+        "disDark": "#999999"
+    },
+    "blue": {
+        "fontLight": "#FFFFFF",
+        "fontDark": "#006a91",
+        "normal": "#00aeed",
+        "light": "#80ddfe",
+        "deep": "#00aeed",
+        "disLight": "#CCCCCC",
+        "disDark": "#999999"
+    }
+}
